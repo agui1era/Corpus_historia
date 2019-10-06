@@ -1,0 +1,662 @@
+{
+  "name": "Historia",
+  "intents": [
+    {
+      "intent": "A0005",
+      "examples": [
+        {
+          "text": "1541"
+        },
+        {
+          "text": "1536"
+        },
+        {
+          "text": "¿Cuándo fue el descubrimiento de Chile?"
+        },
+        {
+          "text": "¿Quién descubrió Chile?"
+        },
+        {
+          "text": "1520"
+        },
+        {
+          "text": "Descubrimiento del Estrecho de Magallanes"
+        },
+        {
+          "text": "Estrecho de Magallanes"
+        },
+        {
+          "text": "Descubrimiento de Chile"
+        }
+      ],
+      "description": "Descubrimiento de Chile"
+    },
+    {
+      "intent": "A0012",
+      "examples": [
+        {
+          "text": "Francisco Pizarro"
+        },
+        {
+          "text": "Descubridor de Chile"
+        },
+        {
+          "text": "¿Quien fue Diego de Almagro?"
+        }
+      ],
+      "description": "Diego de Almagro"
+    },
+    {
+      "intent": "A0015",
+      "examples": [
+        {
+          "text": "Quien fue Caupolican?"
+        },
+        {
+          "text": "¿Quién fue Caupolicán?"
+        },
+        {
+          "text": "Toqui Mapuche"
+        }
+      ],
+      "description": "Caupolicán"
+    },
+    {
+      "intent": "A0007",
+      "examples": [
+        {
+          "text": "Me puedes decir el primer presidente Chile"
+        },
+        {
+          "text": "¿Quién fue el primer Presidente de la República de Chile?"
+        },
+        {
+          "text": "Primer persidente de Chie"
+        },
+        {
+          "text": "Conoces el primer presidente de Chile"
+        },
+        {
+          "text": "Quien fue el primer presidente de Chile"
+        }
+      ],
+      "description": "¿Quién fue el primer Presidente de la República de Chile?"
+    },
+    {
+      "intent": "A0014",
+      "examples": [
+        {
+          "text": "¿Quien fue Hernando de Magallanes?"
+        },
+        {
+          "text": "Hernando de Magallanes"
+        },
+        {
+          "text": "Fernando de Magallanes"
+        },
+        {
+          "text": "Magallanes"
+        }
+      ],
+      "description": "Hernando de Magallanes"
+    },
+    {
+      "intent": "A0002",
+      "examples": [
+        {
+          "text": "Que se celebra el 18 de septiembre?"
+        },
+        {
+          "text": "Cúando son las fiestas patrias"
+        },
+        {
+          "text": "Cuando es el 18?"
+        }
+      ],
+      "description": "Que se celebra el 18 de septiembre?"
+    },
+    {
+      "intent": "A0010",
+      "examples": [
+        {
+          "text": "Conoces la primera bandera de Chile"
+        },
+        {
+          "text": "Cómo era la primera bandera de Chile"
+        },
+        {
+          "text": "Me puedes contar acerca de la primera bandera de Chile"
+        }
+      ],
+      "description": "¿Cuáles eran los colores de la primera bandera chilena?"
+    },
+    {
+      "intent": "A0006",
+      "examples": [
+        {
+          "text": "Donde esta Chile"
+        },
+        {
+          "text": "Que es Chile"
+        },
+        {
+          "text": "conoces el Pais de Chile"
+        },
+        {
+          "text": "Dime que es Chile"
+        }
+      ],
+      "description": "Qué es Chile"
+    },
+    {
+      "intent": "A0011",
+      "examples": [
+        {
+          "text": "Me puedes indicar cual es el río más largo de Chile"
+        },
+        {
+          "text": "Dime el río más largo de Chile"
+        },
+        {
+          "text": "Conoces el río más largo de Chile"
+        },
+        {
+          "text": "Río mas largo de Chile?"
+        }
+      ],
+      "description": "¿Cuál es el río más largo de Chile?"
+    },
+    {
+      "intent": "A0017",
+      "examples": [
+        {
+          "text": "Guerrero mapuche sin manos"
+        },
+        {
+          "text": "Quien fue Galvarino?"
+        },
+        {
+          "text": "¿Quién fue Galvarino?"
+        },
+        {
+          "text": "Cuentame de Galvarino"
+        },
+        {
+          "text": "Que sabes de Galvarino"
+        },
+        {
+          "text": "Castigo español"
+        },
+        {
+          "text": "garbarino"
+        }
+      ],
+      "description": "Galvarino"
+    },
+    {
+      "intent": "A0004",
+      "examples": [
+        {
+          "text": "Cuando se firmó el Acta de Independencia de Chile?"
+        },
+        {
+          "text": "acta independencia Talca"
+        },
+        {
+          "text": "acta idependencia Concepción"
+        },
+        {
+          "text": "firma acta independencia"
+        },
+        {
+          "text": "2 de febrero de 1818"
+        },
+        {
+          "text": "1 de enero de 1818"
+        },
+        {
+          "text": "Chile independiente"
+        },
+        {
+          "text": "independencia de la Monarquía Española"
+        },
+        {
+          "text": "Independencia de Chile"
+        },
+        {
+          "text": "Acta de Independencia de Chile"
+        }
+      ],
+      "description": "Cuando se firmó el Acta de Independencia de Chile?"
+    },
+    {
+      "intent": "A0009",
+      "examples": [
+        {
+          "text": "¿Quién escribió el himno chileno?"
+        },
+        {
+          "text": "Conoces quien escribió el himno Chileno"
+        },
+        {
+          "text": "Qien fue el auto del Himno Chileno"
+        },
+        {
+          "text": "Quien hizo el himno Chileno?"
+        }
+      ],
+      "description": "¿Quién escribió el himno chileno?"
+    },
+    {
+      "intent": "A0016",
+      "examples": [
+        {
+          "text": "Quien fue Lautaro?"
+        },
+        {
+          "text": "¿Quién fue Lauraro?"
+        },
+        {
+          "text": "Leftraru"
+        },
+        {
+          "text": "Necesito saber de Lautaro"
+        },
+        {
+          "text": "Cuentame de Lautaro"
+        },
+        {
+          "text": "Que sabes de Lautaro"
+        }
+      ],
+      "description": "Lautaro"
+    },
+    {
+      "intent": "A0003",
+      "examples": [
+        {
+          "text": "Cuando murió Arturo Prat"
+        },
+        {
+          "text": "Combate Naval muy conocido"
+        },
+        {
+          "text": "Cuando fue el Combate Naval de Iquique"
+        },
+        {
+          "text": "Que se celebra el 21 de mayo?"
+        },
+        {
+          "text": "Guerra del Pacifico"
+        }
+      ],
+      "description": "Que se celebra el 21 de mayo?"
+    },
+    {
+      "intent": "A0013",
+      "examples": [
+        {
+          "text": "¿Quien fue Pedro de Valdivia?"
+        },
+        {
+          "text": "Conquistador de Chile"
+        }
+      ],
+      "description": "Pedro de Valdivia"
+    },
+    {
+      "intent": "A0001",
+      "examples": [
+        {
+          "text": "Hola"
+        },
+        {
+          "text": "Como estai"
+        },
+        {
+          "text": "que tal"
+        },
+        {
+          "text": "Aloja"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        }
+      ],
+      "description": "Saludar"
+    },
+    {
+      "intent": "A0008",
+      "examples": [
+        {
+          "text": "¿En qué lugar murió Bernardo O’Higgins?"
+        },
+        {
+          "text": "murió Bernardo O’Higgins?"
+        },
+        {
+          "text": "En que país murió Bernardo O’Higgins"
+        },
+        {
+          "text": "Donde murió Bernardo O’Higgins"
+        }
+      ],
+      "description": "¿En qué lugar murió Bernardo O’Higgins?"
+    }
+  ],
+  "entities": [],
+  "language": "es",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "skill_id": "807ffb85-d4c2-42f5-96db-e5cba4068e28",
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            " El 8 de julio de 1826 el Congreso instituyó el título de Presidente de la República y designó en esas funciones a Manuel Blanco Encalada"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0007",
+      "dialog_node": "node_8_1569785068235",
+      "previous_sibling": "node_4_1569803599309"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "\tCelebración del aniversario de la Primera Junta Nacional de Gobierno de Chile."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0002",
+      "dialog_node": "node_6_1569341921137",
+      "previous_sibling": "node_5_1569444164321"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "El río Loa es un curso de agua del norte de Chile, entre la Región de Tarapacá y la Región de Antofagasta. Con una longitud de 440 kilómetros, es el río más largo de Chile"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0011",
+      "dialog_node": "node_10_1569879146366",
+      "previous_sibling": "node_9_1569940100658"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            " Bernardo O'Higgins Riquelme murió el 24 de octubre de 1842 en Lima"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0008",
+      "dialog_node": "node_4_1569803599309",
+      "previous_sibling": "node_7_1569803955038"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "La primera versión de la bandera fue creada como un distintivo para identificar a los patriotas en la época denominada Patria Vieja. Estaba compuesta por tres franjas horizontales del mismo tamaño con los colores azul en la franja superior, blanco en la franja del medio y amarillo en la franja inferior"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0010",
+      "dialog_node": "node_9_1569804180051",
+      "previous_sibling": "node_10_1569879146366"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Diego de Almagro fue un adelantado y conquistador español. Participó en la conquista de Perú y se le considera oficialmente el descubridor de Chile; fue también el primer europeo en llegar al actual territorio de Bolivia."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0012",
+      "dialog_node": "node_9_1569940100658",
+      "previous_sibling": "node_8_1569941469957"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "El autor de la letra del Himno Nacional Chileno es el poeta chileno Eusebio Lillo "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0009",
+      "dialog_node": "node_7_1569803955038",
+      "previous_sibling": "node_9_1569804180051"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Chile es un país largo y angosto que se extiende por el borde occidental de Sudamérica, con más de 6,000 km de costa en el océano Pacífico. Santiago, su capital, se ubica en un valle rodeado de los Andes y la cordillera de la Costa. En la Plaza de Armas de la ciudad, bordeada de palmeras, se encuentra la catedral neoclásica y el Museo de Historia Nacional. El enorme Parque Metropolitano cuenta con piscinas, un jardín botánico y un zoológico."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0006",
+      "dialog_node": "node_4_1569784808610",
+      "previous_sibling": "node_8_1569785068235"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Caupolicán ​​ fue un toqui mapuche que lideró la resistencia de su pueblo contra los conquistadores españoles que llegaron a la actual Chile durante el siglo XVI. ",
+            "Su principal esposa conocida fue Fresia, también denominada Güeden o Paca por otros autores.3​ Su principal hijo conocido fue Lemucaguin, también llamado como Caupolicán el Joven.",
+            "Luchó desde su juventud contra los conquistadores españoles logrando la libertad de su territorio. Fue elegido toqui (jefe militar) de los mapuches, siendo sucesor de Lautaro, aunque Alonso de Ercilla destaca su elección antes, siendo el candidato secreto de Colo Colo para la conducción de la guerra. Al parecer era miembro de una familia muy respetada en la sociedad mapuche, pues él y sus hermanos estaban siempre en el núcleo de jefes que planificaba los movimientos de guerra. De hecho, Gerónimo de Vivar lo señala en la Batalla de Millarapue:",
+            "Junto con Lautaro fue uno de los conductores de los araucanos en las guerras del siglo XVI. Cooperó con Lautaro en la toma del fuerte Tucapel y en la batalla de Tucapel, donde es derrotado el ejército conquistador y muere Pedro de Valdivia. Su nombre es símbolo de la resistencia indígena, su vida y hechos son recogidos por Alonso de Ercilla —uno de los capitanes de García Hurtado de Mendoza y Manrique— en su obra épica La Araucana y Rubén Darío en su poema Caupolicán."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0015",
+      "dialog_node": "node_10_1570121662441",
+      "previous_sibling": "node_5_1570122301022"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Pedro de Valdivia fue un militar y conquistador español de origen extremeño. Tras participar en diversas campañas militares en Europa, Valdivia viajó a América, formando parte de las huestes de Francisco Pizarro, gobernador del Perú. Con el título de teniente gobernador otorgado por Pizarro, Valdivia lideró la Conquista de Chile a partir de 1540. En dicho rol, fue el fundador de las ciudades más antiguas del país, incluyendo la capital Santiago en 1541, La Serena (1544), Concepción (1550), Valdivia (1552) y La Imperial (1552). Además, dispuso la fundación de las ciudades de Villarrica y Los Confines (Angol)."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0013",
+      "dialog_node": "node_7_1569940566734",
+      "previous_sibling": "node_10_1570121662441"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "El Acta de Independencia de Chile es el documento mediante el cual Chile declaró solemnemente su independencia de la Monarquía Española. Fue fechada en Concepción a 1 de enero de 1818,​ y aprobada y firmada por el director supremo Bernardo O'Higgins en Talca el 2 de febrero siguiente."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0004",
+      "dialog_node": "node_8_1569520723459",
+      "previous_sibling": "node_9_1569700001113"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "El combate naval de Iquique fue uno de los enfrentamientos más importantes ocurridos durante la campaña naval de la Guerra del Pacífico. Tuvo lugar en la bahía de Iquique el miércoles 21 de mayo de 1879."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0003",
+      "dialog_node": "node_5_1569444164321",
+      "previous_sibling": "node_8_1569520723459"
+    },
+    {
+      "type": "standard",
+      "title": "Respuesta al intent 0001 Saludo",
+      "output": {
+        "text": {
+          "values": [
+            "Hola, soy Historia estoy para ayudarte en preguntas relacionadas con Chile"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#0001",
+      "dialog_node": "node_3_1568384609831",
+      "previous_sibling": "node_6_1569341921137"
+    },
+    {
+      "type": "standard",
+      "title": "Bienvenido",
+      "output": {
+        "text": {
+          "values": [
+            "Hola. ¿Cómo puedo ayudarle?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bienvenido",
+      "previous_sibling": "node_3_1568384609831"
+    },
+    {
+      "type": "standard",
+      "title": "En otras cosas",
+      "output": {
+        "text": {
+          "values": [
+            "No le he entendido. Intente reformular la consulta.",
+            "¿Puede expresarse con otras palabras? No le he entendido.",
+            "No entendí el significado."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "En otras cosas",
+      "previous_sibling": "Bienvenido"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "El Descubrimiento de Chile es el período histórico que se inició con la llegada de los españoles a tierras chilenas, específicamente la expedición de Hernando de Magallanes en 1520, luego continúa con la de Diego de Almagro en 1536, y concluye con el arribo de Pedro de Valdivia en 1541, quien inicia el período de la Conquista."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0005",
+      "dialog_node": "node_9_1569700001113",
+      "previous_sibling": "node_4_1569784808610"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Fernando de Magallanes, también conocido como Hernando de Magallanes, fue un militar, explorador, marino y navegante portugués de linaje noble. Fue nombrado adelantado por la Monarquía Hispánica y capitán general de la «Armada para el descubrimiento de la especería» y comendador de la Orden de Santiago."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0014",
+      "dialog_node": "node_8_1569941469957",
+      "previous_sibling": "node_7_1569940566734"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Lautaro fue un destacado líder militar Mapuche en la Guerra de Arauco durante la primera fase de la conquista española del territorio que llegaría a ser Chile.",
+            "Jefe de la sublevación indígena frente al dominio español. Se destacó por su gran valor y su gran destreza guerrera.",
+            "Lautaro (1534 –1557) , se destaca por su valor y como gran guerrero. Cuando todavía era adolescente  fue capturado por los españoles, momento en el cual fue puesto al servicio de las tropas españolas, donde fue caballerizo del propio Pedro de Valdivia. Esto le permitió conocer bien a los españoles: cómo eran sus armas, cómo combatían y los puntos débiles de los caballos.",
+            "Lautaro escapó de los españoles y huyó a sus tierras (aproximadamente, en 1553)  y rápidamente se destacó por su valentía e inteligencia. Enseñó a los mapuches los puntos vulnerables de los españoles e inventó nuevas técnicas de guerra.",
+            "Su intención era atacar a los españoles e impedir que éstos se retiraran a los fuertes más protegidos. Su táctica era vencerlos por cansancio, atacándolos con escuadrones que descansarían después de combatir, mientras otro escuadrón seguía luchando con el enemigo. Derribaban a los españoles de sus caballos, a golpes de maza y macana prescindiendo de lanzas y arcos.",
+            "En diciembre de 1553 ocurrió la batalla de Tucapel. Lautaro y sus tropas derrotaron a los españoles, es capturado y muerto el gobernador Pedro de Valdivia. Así, acabó el mito de la invencibilidad española en batallas campales entre los mapuches.",
+            "La derrota de Tucapel produjo pánico entre los españoles y mandaron 154 soldados a vengar la muerte del gobernador. En la batalla de Marigüeñu los españoles fueron nuevamente derrotadospor Lautaro y su táctica de guerra.",
+            "Lautaro avanzó sobre Concepción y la destruyó por segunda vez. Luego inició su avance hacia Santiago, atravesó el río Maule e instaló su campamento en Peteroa.",
+            "Adelantándose al jefe Mapuche, Juan de Villagra lo atacó por sorpresa, en abril de 1557 derrotando a los mapuches y dando muerte a Lautaro.  Los excesos y castigos cometidos por Lautaro y sus hombres en contra de los indígenas de la zona -los promaucaes-, le valió la enemistad de varios caciques que se vengaron delatándolo.",
+            "La valentía de Lautaro impresionó a todos, incluso a los españoles, lo que hizo que se destaque como un personaje legendario en la historia mapuche y chilena."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0016",
+      "dialog_node": "node_5_1570122301022",
+      "previous_sibling": "node_4_1570123879453"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Galvarino fue un guerrero mapuche perteneciente a las filas de Lautaro. Aunque apenas se conocen datos acerca de su vida, Galvarino fue uno de los guerreros mapuche más importantes.",
+            "Galvarino combatió a las fuerzas españolas del gobernador García Hurtado de Mendoza y fue capturado en la batalla de Lagunillas, junto al río Biobío.",
+            "Galvarino fue un cacique mapuche, lugarteniente de Caupolicán, considerado una de las figuras más importantes de la historia mapuche.",
+            "Este valiente mapuche combatió heroicamente a las fuerzas españolas lideradas por el gobernador García Hurtado de Mendoza, hasta su terrible captura ocurrida en la Batalla de Lagunillas en 1557.",
+            "Al ser apresado, los soldados españoles cortaron sus manos a modo de escarmiento, suceso que el poeta Alonso de Ercilla registró en el texto La Araucana, donde narra la valentía de Galvarino, minutos después de ser cercenado “con desdén y menosprecio dello alargó la cabeza y tendió el cuello” para que le quitaran la vida cortándole la cabeza; sin embargo, fue perdonado y regresó con los suyos, jurando vengarse.",
+            "Luego de perder sus manos, Galvarino no se dio por vencido y se armó de dos poderosos cuchillos los que amarró a sus brazos, convirtiéndose en uno de los soldados más temidos, eso hasta el 30 de noviembre de 1557 en el Combate de Millarapue, cuendo fue nuevamente capturado junto con otros indígenas, a los que se les condenó a la horca.",
+            "A minutos de ser ahorcado, Alonso de Ercilla quiso interceder por su vida, a lo que Galvarino con gran repudió respondió con la siguiente frase “Prefiero morir a recibir la vida de vosotros, y sólo siento la muerte por no haber podido haceros pedazos con los dientes”.",
+            "Existen distintas versiones de algunos historiadores chilenos, que indican que el aguerrido mapuche Galvarino se habría suicidado para privar a sus enemigos españoles el placer de terminar con su vida.",
+            "Respecto de Galvarino, el cronista y militar español Mariño de Lobera (1528-1594) afirma que \"fue tanto el coraje , que ya que le faltaron las manos, peleó más fuertemente con la lengua, la cual suele ser más eficaz para hacer guerra que las manos de los Hércules y las industrias de los Césares\".",
+            "Galvarino luchó bajo el mando de Lautaro en las campañas hacia Santiago y Tucapel. Fue tomado prisionero en la batalla de Lagunillas. Juzgado por insurrección, fue condenado a amputación de sus miembros y sus dos manos fueron cortadas. Fue liberado como ejemplo de escarmiento para el resto de los mapuches.",
+            "En la obra teatral Arauco domado, el autor Lope de Vega pondrá en la boca de Galvarino las siguientes palabras dirigidas a García Hurtado de Mendoza:\n\nTu has hallado justos modos\nde castigar y vencer;\npero quedan tantas manos\npor las que cortas en mí\nen los demás araucanos\nque espero que por aquí\nsaldrán tus intentos vanos (...).\ny así esta mano enemiga\nque cortas de este valiente (...).\ntantas manos nacerán\nque las tuyas atarán",
+            "Al volver de su castigo, Galvarino se presentó ante los mapuche, mostrando sus mutilaciones, clamando justicia y un mayor levantamiento mapuche como su antiguo líder Lautaro. Por su valentía y gallardía fue puesto al mando de un escuadrón y con cuchillos amarrados en ambos miembros mutilados reemplazando sus manos luchó fugazmente junto a Caupolicán en las campañas siguientes hasta que, ambos fueron capturados en la Batalla de Millarapue y García Hurtado de Mendoza ordenó matarlo lanzándolo a los perros.",
+            "En el combate de Millarapue, el 30 de noviembre de 1557, luego de un cruel enfrentamiento, Galvarino fue capturado junto con otros jefes indígenas, y el gobernador Hurtado de Mendoza, como medida punitiva, lo mandó ahorcar.",
+            "Galvarino fue condenado a ser colgado de un árbol; pero el poeta Alonso de Ercilla (1533-1594) se esforzó por librarlo de la muerte, alegando que le había visto pasarse a las filas españolas. Galvarino le respondió descubriendo sus brazos mutilados que había tenido ocultos bajo su manta, que no quería recibir la vida de ellos y sólo sentía la muerte por no haber podido hacerlos pedazos con los dientes. Los conquistadores se exaltaron al ver la soberbia del cacique y apuraron la ejecución."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0017",
+      "dialog_node": "node_4_1570123879453"
+    }
+  ],
+  "workspace_id": "807ffb85-d4c2-42f5-96db-e5cba4068e28",
+  "counterexamples": [],
+  "system_settings": {},
+  "learning_opt_out": false,
+  "status": "Training"
+}
