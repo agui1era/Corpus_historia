@@ -5,13 +5,19 @@
       "intent": "A0005",
       "examples": [
         {
+          "text": "Descubrimiento de Chile"
+        },
+        {
           "text": "1541"
         },
         {
-          "text": "1536"
+          "text": "Estrecho de Magallanes"
         },
         {
           "text": "¿Cuándo fue el descubrimiento de Chile?"
+        },
+        {
+          "text": "1536"
         },
         {
           "text": "¿Quién descubrió Chile?"
@@ -21,15 +27,24 @@
         },
         {
           "text": "Descubrimiento del Estrecho de Magallanes"
-        },
-        {
-          "text": "Estrecho de Magallanes"
-        },
-        {
-          "text": "Descubrimiento de Chile"
         }
       ],
       "description": "Descubrimiento de Chile"
+    },
+    {
+      "intent": "A0019",
+      "examples": [
+        {
+          "text": "Gobernador Francisco Villagra"
+        },
+        {
+          "text": "Francisco Villagra"
+        },
+        {
+          "text": "Gobernador Francisco de Villagra"
+        }
+      ],
+      "description": "Francisco de Villagra"
     },
     {
       "intent": "A0012",
@@ -62,25 +77,79 @@
       "description": "Caupolicán"
     },
     {
+      "intent": "A0020",
+      "examples": [
+        {
+          "text": "Gobernador Rodrigo Quiroga"
+        },
+        {
+          "text": "Rodrigo Quiroga"
+        },
+        {
+          "text": "Gobernador Rodrigo de Quiroga"
+        }
+      ],
+      "description": "Rodrigo de Quiroga"
+    },
+    {
       "intent": "A0007",
       "examples": [
         {
-          "text": "Me puedes decir el primer presidente Chile"
+          "text": "Primer persidente de Chie"
         },
         {
           "text": "¿Quién fue el primer Presidente de la República de Chile?"
         },
         {
-          "text": "Primer persidente de Chie"
+          "text": "Quien fue el primer presidente de Chile"
+        },
+        {
+          "text": "Me puedes decir el primer presidente Chile"
         },
         {
           "text": "Conoces el primer presidente de Chile"
-        },
-        {
-          "text": "Quien fue el primer presidente de Chile"
         }
       ],
       "description": "¿Quién fue el primer Presidente de la República de Chile?"
+    },
+    {
+      "intent": "A0022",
+      "examples": [
+        {
+          "text": "Gobernador Hurtado de Mendoza"
+        },
+        {
+          "text": "Hurtado de Mendoza"
+        },
+        {
+          "text": "Gobernador García Hurtado de Mendoza"
+        },
+        {
+          "text": "Gobernador García"
+        },
+        {
+          "text": "Gobernador Mendoza"
+        }
+      ],
+      "description": "García Hurtado de Mendoza"
+    },
+    {
+      "intent": "A0018",
+      "examples": [
+        {
+          "text": "Caprtura del Huascar"
+        },
+        {
+          "text": "Captura del monitor Huascar"
+        },
+        {
+          "text": "Combate de Angamos"
+        },
+        {
+          "text": "Muerte de Miguel Grau"
+        }
+      ],
+      "description": "Combate naval de Angamos"
     },
     {
       "intent": "A0014",
@@ -104,13 +173,13 @@
       "intent": "A0002",
       "examples": [
         {
+          "text": "Cuando es el 18?"
+        },
+        {
           "text": "Que se celebra el 18 de septiembre?"
         },
         {
           "text": "Cúando son las fiestas patrias"
-        },
-        {
-          "text": "Cuando es el 18?"
         }
       ],
       "description": "Que se celebra el 18 de septiembre?"
@@ -119,13 +188,13 @@
       "intent": "A0010",
       "examples": [
         {
+          "text": "Me puedes contar acerca de la primera bandera de Chile"
+        },
+        {
           "text": "Conoces la primera bandera de Chile"
         },
         {
           "text": "Cómo era la primera bandera de Chile"
-        },
-        {
-          "text": "Me puedes contar acerca de la primera bandera de Chile"
         }
       ],
       "description": "¿Cuáles eran los colores de la primera bandera chilena?"
@@ -134,16 +203,16 @@
       "intent": "A0006",
       "examples": [
         {
-          "text": "Donde esta Chile"
+          "text": "Que es Chile"
         },
         {
-          "text": "Que es Chile"
+          "text": "Dime que es Chile"
         },
         {
           "text": "conoces el Pais de Chile"
         },
         {
-          "text": "Dime que es Chile"
+          "text": "Donde esta Chile"
         }
       ],
       "description": "Qué es Chile"
@@ -152,16 +221,16 @@
       "intent": "A0011",
       "examples": [
         {
-          "text": "Me puedes indicar cual es el río más largo de Chile"
+          "text": "Dime el río más largo de Chile"
         },
         {
-          "text": "Dime el río más largo de Chile"
+          "text": "Río mas largo de Chile?"
         },
         {
           "text": "Conoces el río más largo de Chile"
         },
         {
-          "text": "Río mas largo de Chile?"
+          "text": "Me puedes indicar cual es el río más largo de Chile"
         }
       ],
       "description": "¿Cuál es el río más largo de Chile?"
@@ -171,6 +240,9 @@
       "examples": [
         {
           "text": "Guerrero mapuche sin manos"
+        },
+        {
+          "text": "garbarino"
         },
         {
           "text": "Quien fue Galvarino?"
@@ -186,9 +258,6 @@
         },
         {
           "text": "Castigo español"
-        },
-        {
-          "text": "garbarino"
         }
       ],
       "description": "Galvarino"
@@ -197,10 +266,10 @@
       "intent": "A0004",
       "examples": [
         {
-          "text": "Cuando se firmó el Acta de Independencia de Chile?"
+          "text": "Acta de Independencia de Chile"
         },
         {
-          "text": "acta independencia Talca"
+          "text": "Cuando se firmó el Acta de Independencia de Chile?"
         },
         {
           "text": "acta idependencia Concepción"
@@ -224,7 +293,7 @@
           "text": "Independencia de Chile"
         },
         {
-          "text": "Acta de Independencia de Chile"
+          "text": "acta independencia Talca"
         }
       ],
       "description": "Cuando se firmó el Acta de Independencia de Chile?"
@@ -233,6 +302,9 @@
       "intent": "A0009",
       "examples": [
         {
+          "text": "Quien hizo el himno Chileno?"
+        },
+        {
           "text": "¿Quién escribió el himno chileno?"
         },
         {
@@ -240,9 +312,6 @@
         },
         {
           "text": "Qien fue el auto del Himno Chileno"
-        },
-        {
-          "text": "Quien hizo el himno Chileno?"
         }
       ],
       "description": "¿Quién escribió el himno chileno?"
@@ -251,7 +320,10 @@
       "intent": "A0016",
       "examples": [
         {
-          "text": "Quien fue Lautaro?"
+          "text": "Cuentame de Lautaro"
+        },
+        {
+          "text": "Necesito saber de Lautaro"
         },
         {
           "text": "¿Quién fue Lauraro?"
@@ -260,10 +332,7 @@
           "text": "Leftraru"
         },
         {
-          "text": "Necesito saber de Lautaro"
-        },
-        {
-          "text": "Cuentame de Lautaro"
+          "text": "Quien fue Lautaro?"
         },
         {
           "text": "Que sabes de Lautaro"
@@ -275,10 +344,10 @@
       "intent": "A0003",
       "examples": [
         {
-          "text": "Cuando murió Arturo Prat"
+          "text": "Combate Naval muy conocido"
         },
         {
-          "text": "Combate Naval muy conocido"
+          "text": "Cuando murió Arturo Prat"
         },
         {
           "text": "Cuando fue el Combate Naval de Iquique"
@@ -305,17 +374,23 @@
       "description": "Pedro de Valdivia"
     },
     {
-      "intent": "A0001",
+      "intent": "A0021",
       "examples": [
         {
-          "text": "Hola"
+          "text": "Gobernador Francisco Aguirre"
         },
         {
-          "text": "Como estai"
+          "text": "Gobernador Francisco de Aguirre"
         },
         {
-          "text": "que tal"
-        },
+          "text": "Francisco Aguirre"
+        }
+      ],
+      "description": "Francisco de Aguirre"
+    },
+    {
+      "intent": "A0001",
+      "examples": [
         {
           "text": "Aloja"
         },
@@ -323,7 +398,16 @@
           "text": "Hello"
         },
         {
+          "text": "Hola"
+        },
+        {
           "text": "Hi"
+        },
+        {
+          "text": "Como estai"
+        },
+        {
+          "text": "que tal"
         }
       ],
       "description": "Saludar"
@@ -332,16 +416,16 @@
       "intent": "A0008",
       "examples": [
         {
-          "text": "¿En qué lugar murió Bernardo O’Higgins?"
-        },
-        {
           "text": "murió Bernardo O’Higgins?"
         },
         {
-          "text": "En que país murió Bernardo O’Higgins"
+          "text": "Donde murió Bernardo O’Higgins"
         },
         {
-          "text": "Donde murió Bernardo O’Higgins"
+          "text": "¿En qué lugar murió Bernardo O’Higgins?"
+        },
+        {
+          "text": "En que país murió Bernardo O’Higgins"
         }
       ],
       "description": "¿En qué lugar murió Bernardo O’Higgins?"
@@ -405,6 +489,44 @@
       "output": {
         "text": {
           "values": [
+            "El combate naval de Angamos fue un enfrentamiento de la campaña naval de la Guerra del Pacífico en la que fue capturado el monitor blindado Huáscar por el núcleo de la escuadra chilena mediante una maniobra envolvente.",
+            "Si bien en los hechos estuvieron presentes los buques peruanos Huáscar y Unión, y los chilenos Cochrane, Blanco Encalada, O'Higgins, Loa, Covadonga y Matías Cousiño, en las acciones concretas el Huáscar se enfrentó solamente a dos buques chilenos: en un comienzo al Cochrane, que fue el que lo dañó de consideración, y luego entraría en la acción el Blanco Encalada con lo que la lucha finalmente terminaría.",
+            "Este combate naval fue un punto decisivo en la guerra naval que favoreció a Chile ya que puso fin a las correrías del buque peruano, que hasta ese momento había sabido evitar a sus buques capitales gracias a su mayor andar y entorpecer sus líneas de abastecimiento marítimo para dificultar las acciones terrestres. También aumentó el poder naval chileno con esta nueva unidad capturada, y principalmente, le dio a Chile el control definitivo del mar para poder proyectar en forma adecuada sus fuerzas militares en territorio peruano.",
+            "Una vez declarada la guerra, Perú y Chile siguieron diferentes estrategias para lograr sus objetivos políticos. La escuadra chilena buscaba una batalla decisiva en la cual hacer valer las ventajas técnicas de sus más modernas y mayores fragatas blindadas. En el Perú, conscientes de su inferioridad en material de guerra, utilizó una estrategia dinámica y audaz, evitando un enfrentamiento desfavorable y buscando imposibilitar el abastecimiento y el transporte de tropas de Chile.",
+            "Si la estrategia peruana era audaz en un comienzo, después de la pérdida de la Independencia fue demasiado arriesgada, pues se le ordenó al Huáscar continuar sus ataques a las líneas chilenas de abastecimiento en circunstancias que en caso de pérdida o captura, la última defensa de las costa peruanas sería destruida."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0018",
+      "dialog_node": "node_6_1570552977121",
+      "previous_sibling": "node_7_1570553406263"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Francisco de Villagra Velázquez fue un militar y conquistador español que fue nombrado gobernador de Chile en tres ocasiones, en los periodos 1547-1549, 1553-1557 y 1561-1563.",
+            "Fue hijo del comendador de Rubiales de la orden de San Juan de Jerusalén Álvaro de Sarría y de Ana de Villagra.\n\nAl llegar a América, se dirigió al Perú en donde planeó, junto al capitán Alonso de Mesa, un intento de liberación de Diego de Almagro, prisionero de los Pizarro. Descubierto su intento, fue condenado a muerte, pero Hernando Pizarro le salvó la vida.",
+            "Llegó a Chile cuando Pedro de Valdivia dispuso la conquista de esa región. Estuvo presente en la fundación de Santiago de Nueva Extremadura en 1541, ocupó diversos puestos en el gobierno de la ciudad, y le tocó defenderla del asalto del cacique Michimalonco en septiembre del mismo año.",
+            "Primer interinato \nCuando Valdivia decidió viajar al Perú en busca de refuerzos (1548), el conquistador le encargó a Villagra el gobierno interino. Al empezar su mandato descubrió una conspiración dirigida por Pedro Sánchez de la Hoz, que ya había intentado apoderarse del gobierno en oportunidades anteriores, pero que Valdivia había perdonado por sus posibles influencias en la corte. Villagra no fue tan benevolente, y lo castigó con la pena máxima, no dándole tiempo siquiera para confesarse.",
+            "En 1551 fue enviado al Perú a reclutar los hombres necesarios para las campañas en el sur contra los mapuches, regresando para intervenir en ellas. El mismo año participó además, al mando de una expedición, en la exploración de la región de Cuyo, considerándosele el primer español en recorrer esta zona, donde pocos años después se fundaría la ciudad de Mendoza.",
+            "Segundo interinato\nValdivia murió en la batalla de Tucapel, el 25 de diciembre de 1553. En su testamento, que solo se debía abrir tras su muerte, nombraba gobernador de Chile en primer lugar a Jerónimo de Alderete, en segundo a Francisco de Aguirre y por último a Villagra. Alderete se encontraba en España negociando el reconocimiento del cargo de Valdivia por el rey, y Aguirre en la conquista de Tucumán. Las ciudades del sur proclamaron entonces a Villagra como gobernador.",
+            "Último gobierno y fallecimiento\nSu gobierno se inició con una demostración de su eterna mala estrella, ya que el barco en que vino trajo la viruela a Chile, provocando una desastrosa epidemia en Valparaíso y Santiago, pero que también afectó con aún mayor gravedad a los mapuches, que perdieron entre la quinta y cuarta parte de su población."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0019",
+      "dialog_node": "node_7_1570553406263",
+      "previous_sibling": "node_7_1570554009563"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
             " Bernardo O'Higgins Riquelme murió el 24 de octubre de 1842 en Lima"
           ],
           "selection_policy": "sequential"
@@ -433,6 +555,34 @@
       "output": {
         "text": {
           "values": [
+            "Francisco de Aguirre Meneses también conocido como Francisco de Aguirre \"el Viejo\"​ era un militar, explorador y conquistador español que participó en la conquista de Chile y del noroeste de Argentina.",
+            "Fue electo alcalde de primer voto de la recién fundada ciudad de Santiago de la Nueva Extremadura en marzo de 1541, después fue asignado como teniente de gobernador del Tucumán de 1553 a 1554, posteriormente a la muerte de Valdivia fue nombrado de facto como cogobernador de Chile, junto a Villagra en el sur y a Quiroga en el centro de la gobernación, y luego como gobernador del Tucumán en dos oportunidades, de 1665 a 1666 y de 1669 a 1670. Fue el fundador de Santiago del Estero (Argentina)​, y refundador de La Serena (Chile).",
+            "Francisco de Aguirre nació en 1500 en la localidad de Talavera de la Reina, Corona de Castilla. Era hijo de Hernando de la Rúa Ramírez y de Constanza de Meneses Aguirre, una bisnieta de don Juan Alfonso Téllez de Meneses, IV conde de Barcelos y I de Ourém.",
+            "Si bien su padre y abuelo paterno utilizaron el apellido De la Rúa, Francisco siempre utilizó el apellido Aguirre que probablemente habría sido el apellido materno de su padre o el de su madre. Para entonces, era frecuente en España tomar y portar el apellido que se considere más honroso de alguno de sus ascendientes.",
+            "Como todos los jóvenes de su época, Aguirre se incorporó a las tropas imperiales de Carlos I de España. La península italiana era el gran escenario bélico de la época. En 1521, las tropas de Carlos I vencieron a las francesas tomando Milán. Formaban el ejército vencedor soldados españoles, italianos y alemanes. Y entre ellos, bravos soldados como Pedro de Valdivia, Francisco de Aguirre, Juan Gregorio Bazán, Francisco Pizarro, Juan Pérez de Zurita, Jerónimo de Alderete y muchos otros que luego se destacaron en las conquistas del Perú, Chile y Argentina.",
+            "En 1534, se embarcó hacia América acompañado solamente por su hijo Hernando, que tenía tan solo seis años. Desde la isla de Cuba viajó al Perú en 1537, junto a 400 soldados castellanos que acudían a socorrer a Francisco Pizarro, que luchaba contra los incas. En Panamá se hizo de caballos, armas, un negro y criados españoles.",
+            "Arribó al Perú al tiempo que Pizarro había capturado al Inca Atahualpa, al que ejecutó. De inmediato, Aguirre se puso a las órdenes del conquistador del Perú y tuvo destacada actuación en todas las campañas y en la dominación de los incas. Más tarde ayudó al capitán Diego de Rojas a dominar y poblar la Provincia de Charcas, donde fue durante dos años teniente.",
+            "Aguirre había conocido a Pedro de Valdivia en las guerras de Italia y al encontrarse con él nuevamente en Lima, decidió acompañarlo en su expedición de conquista de Chile en 1540. Por ser su hombre de confianza, Aguirre alcanzó un lugar preeminente en la incipiente colonia, siendo alcalde ordinario del primer Cabildo de Santiago de Chile en 1541, función que volvió a desempeñar en 1545 y 1549.",
+            "Nombrado teniente gobernador de la zona entre el río Choapa y Atacama, Valdivia le encargó la reconstrucción de La Serena destruida por los indígenas en el norte, ya que había demostrado mano dura en la guerra contra los aborígenes y en el castigo de ellos. El 26 de agosto de 1549, Aguirre refundó la ciudad, construyendo un fuerte para defenderse de los ataques, para después ponerse al frente de su tropa y marchar en persecución de los indígenas a quienes derrotó. El norte de Chile quedó libre de peligros desde ese entonces, pero también mucho más despoblado y con menos mano de obra.",
+            "El 8 de octubre de 1551 el gobernador Pedro de Valdivia nombró a Aguirre como su lugarteniente para las ciudades de La Serena y El Barco en el Tucumán, y para todas las ciudades y villas que hubiere en las tierras de su jurisdicción, hasta llegar al Mar del Norte (Océano Atlántico). ",
+            "Entre Valdivia y Aguirre existía una manifiesta simpatía y estimación mutua, que llevaba a este último a considerar que debía entenderse directamente con Valdivia, sin mediación de ninguna otra autoridad. Ellos entendían que si conquistaban a su costa las tierras que estaban entre los Andes y el Mar del Norte (Océano Atlántico) y fundaban algunas ciudades, y así se lo informaban al rey de España, el monarca les acordaría jurisdicción sobre ellas, uniendo de esa manera todas las tierras del Pacífico hasta el Atlántico en una sola gobernación.",
+            "El 22 de marzo de 1554 llegaron desde Chile el capitán Juan de Aguirre y Diego Álvarez trayéndole las gravísimas e inesperadas noticias de la muerte de Pedro de Valdivia, ocurrida en un combate contra los araucanos en la Batalla de Tucapel. Se abrió su testamento, que lo designaba a él gobernador de Chile en ausencia de Jerónimo de Alderete. Cuando recibió la noticia, los Cabildos de Chile, ante la emergencia y el pánico, ya habían designado como gobernador a Francisco de Villagra, debido a que Alderete estaba en España y Aguirre en el Tucumán.",
+            "Gobernador de Chile (1554-1555)\nEn La Serena, lo recibieron como Capitán General y Justicia Mayor. Comunicó esta elección a Santiago de Chile, haciendo decir que las tropas de su mando estaban dispuestas a sostenerlo en este cargo, que por lo demás le correspondía de derecho en virtud del testamento de Valdivia.",
+            "En 1557 llegó el nuevo gobernador designado por el virrey Andrés Hurtado de Mendoza, quien era nada menos que su hijo, don García. Entre las primeras acciones del nuevo gobernador, tomó presos a Aguirre y a Villagra, a pesar de que se habían portado muy corteses frente a él.",
+            "Primer proceso de Aguirre (1555)\nEl nuevo virrey del Perú, Andrés Hurtado de Mendoza, llegó en junio de 1556 y designó como gobernador de Chile a su propio hijo García Hurtado de Mendoza. El nuevo gobernador trajo un plan para deshacerse de Villagra y Aguirre, pretendientes del gobierno de Chile, a quienes el virrey los veía como individuos de la peor especie. García tomó presos a ambos y los embarcó hacia Lima en 1557."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0021",
+      "dialog_node": "node_3_1570554484926",
+      "previous_sibling": "node_1_1570555489551"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
             "Diego de Almagro fue un adelantado y conquistador español. Participó en la conquista de Perú y se le considera oficialmente el descubridor de Chile; fue también el primer europeo en llegar al actual territorio de Bolivia."
           ],
           "selection_policy": "sequential"
@@ -447,6 +597,30 @@
       "output": {
         "text": {
           "values": [
+            "Rodrigo de Quiroga y López de Ulloa era un militar y conquistador español que fue nombrado gobernador de Chile en dos oportunidades.​",
+            "Origen familiar y primeros años\nFue hijo de Hernando Camba de Quiroga y de María López de Ulloa. El año 1535 viajó al Perú y en participó en la exploración del Gran Chaco en la expedición de Diego de Rojas. Años más tarde llegó a Chile acompañando al grupo dirigido por el conquistador Francisco de Aguirre, que se unió en Atacama. a junto a Francisco de Villagra a Pedro de Valdivia, en marcha a la conquista de Chile.",
+            "Participó en las acciones militares de la conquista de Chile, durante la primera parte de la Guerra de Arauco, llegando a ser uno de los capitanes más importantes del reino, gozaba de la plena confianza de Pedro de Valdivia. Desde 1548 ocupó diversos cargos en la administración de Santiago. Alcalde en tres oportunidades, regidor a perpetuidad desde 1550 y corregidor entre 1550 y 1553.",
+            "Se le entregó la mano de Inés de Suárez, pues Pedro de Valdivia se vio obligado a dejarla por orden de Pedro de la Gasca a petición de los enemigos de Valdivia que lo habían denunciado por tener una relación extramarital. Quiroga no tendría hijos con ella, aunque tuvo una hija anterior a su matrimonio.",
+            "Un cronista de la época lo describió así: “Era hombre de buena estatura, moreno de rostro, la barba negra, cariaguileño, nobilísimo de condición, muy generoso, amigo en extremo grado de pobres, y así Dios le ayudaba en lo que hacía: su casa era hospital y mesón de todos los que la querían” (Alonso de Góngora Marmolejo).",
+            "Al morir Pedro de Valdivia en manos mapuches en la Batalla de Tucapel, las ciudades del sur abrieron el testamento del fallecido y proclamaron gobernador a Francisco de Villagra. Mientras, en Santiago, el cabildo no obedeció lo encomendado por el testamento y proclamó gobernador a Rodrigo de Quiroga.",
+            "Hubo así por algún tiempo dos gobernadores en Chile: Francisco de Villagra en el sur y Quiroga en el norte. Esta situación terminó al regresar Villagra desde la zona de guerra para reclamar su derecho a la gobernación. El cabildo le otorgó este derecho y obligó a Quiroga a entregar el mando, cosa que hizo de mala gana.",
+            "En el 1565, el Virrey envió refuerzos desde el Perú, al mando del general Jerónimo de Costilla. Este general tenía órdenes de deponer a Francisco de Villagra, protegido del virrey anterior, e instalar en el gobierno a Quiroga. En estas circunstancias, Villagra vio que sus fuerzas para luchar por su título eran escasas comparadas con las de Quiroga, se rindió y entregó el mando, para posteriormente ser enviado al Perú.",
+            "Primer gobierno\nEste primer gobierno (el anterior no cuenta porque careció de poder real), que duró hasta 1567, estuvo marcado por los constantes enfrentamientos con los indígenas, de los que salió victorioso. Emprendió una nueva campaña, organizada por Lorenzo Bernal del Mercado. Reconstruyó Cañete y repobló Arauco, y conquistó la isla de Chiloé (que durante un tiempo se llamaría Nueva Galicia), con la fundación de Castro (Chile) y pacificación de los dóciles Cuncos de esa isla",
+            "Segundo gobierno de Chile\n\nHurtado de Mendoza, Villagra y Quiroga según ilustración de Alonso de Ovalle.\nSu segunda administración fue más conflictiva que la primera. A la guerra se le sumaron incursiones piratas, los dos terremotos de 1575, el conflicto con el obispo San Miguel en el nombramiento de cargos eclesiásticos y la rebaja de sueldo a los curas, lo que le valió amenazas de excomunión.",
+            "Fallecimiento\nSu grave enfermedad y su edad le impidieron continuar dirigiendo la guerra, encomendándosela a su yerno Martín Ruiz de Gamboa. Postrado en la cama por sus dolencias, se mantuvo sus últimos días consagrado a las prácticas religiosas, rodeado de frailes, a cuyos conventos legó la mayor parte de sus bienes y murió de forma tranquila, el 25 de febrero de 1580. Su esposa también de avanzada edad Inés de Suárez moriría el mismo año."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0020",
+      "dialog_node": "node_7_1570554009563",
+      "previous_sibling": "node_3_1570554484926"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
             "El autor de la letra del Himno Nacional Chileno es el poeta chileno Eusebio Lillo "
           ],
           "selection_policy": "sequential"
@@ -455,6 +629,33 @@
       "conditions": "#A0009",
       "dialog_node": "node_7_1569803955038",
       "previous_sibling": "node_9_1569804180051"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Galvarino fue un guerrero mapuche perteneciente a las filas de Lautaro. Aunque apenas se conocen datos acerca de su vida, Galvarino fue uno de los guerreros mapuche más importantes.",
+            "Galvarino combatió a las fuerzas españolas del gobernador García Hurtado de Mendoza y fue capturado en la batalla de Lagunillas, junto al río Biobío.",
+            "Galvarino fue un cacique mapuche, lugarteniente de Caupolicán, considerado una de las figuras más importantes de la historia mapuche.",
+            "Este valiente mapuche combatió heroicamente a las fuerzas españolas lideradas por el gobernador García Hurtado de Mendoza, hasta su terrible captura ocurrida en la Batalla de Lagunillas en 1557.",
+            "Al ser apresado, los soldados españoles cortaron sus manos a modo de escarmiento, suceso que el poeta Alonso de Ercilla registró en el texto La Araucana, donde narra la valentía de Galvarino, minutos después de ser cercenado “con desdén y menosprecio dello alargó la cabeza y tendió el cuello” para que le quitaran la vida cortándole la cabeza; sin embargo, fue perdonado y regresó con los suyos, jurando vengarse.",
+            "Luego de perder sus manos, Galvarino no se dio por vencido y se armó de dos poderosos cuchillos los que amarró a sus brazos, convirtiéndose en uno de los soldados más temidos, eso hasta el 30 de noviembre de 1557 en el Combate de Millarapue, cuendo fue nuevamente capturado junto con otros indígenas, a los que se les condenó a la horca.",
+            "A minutos de ser ahorcado, Alonso de Ercilla quiso interceder por su vida, a lo que Galvarino con gran repudió respondió con la siguiente frase “Prefiero morir a recibir la vida de vosotros, y sólo siento la muerte por no haber podido haceros pedazos con los dientes”.",
+            "Existen distintas versiones de algunos historiadores chilenos, que indican que el aguerrido mapuche Galvarino se habría suicidado para privar a sus enemigos españoles el placer de terminar con su vida.",
+            "Respecto de Galvarino, el cronista y militar español Mariño de Lobera (1528-1594) afirma que \"fue tanto el coraje , que ya que le faltaron las manos, peleó más fuertemente con la lengua, la cual suele ser más eficaz para hacer guerra que las manos de los Hércules y las industrias de los Césares\".",
+            "Galvarino luchó bajo el mando de Lautaro en las campañas hacia Santiago y Tucapel. Fue tomado prisionero en la batalla de Lagunillas. Juzgado por insurrección, fue condenado a amputación de sus miembros y sus dos manos fueron cortadas. Fue liberado como ejemplo de escarmiento para el resto de los mapuches.",
+            "En la obra teatral Arauco domado, el autor Lope de Vega pondrá en la boca de Galvarino las siguientes palabras dirigidas a García Hurtado de Mendoza:\n\nTu has hallado justos modos\nde castigar y vencer;\npero quedan tantas manos\npor las que cortas en mí\nen los demás araucanos\nque espero que por aquí\nsaldrán tus intentos vanos (...).\ny así esta mano enemiga\nque cortas de este valiente (...).\ntantas manos nacerán\nque las tuyas atarán",
+            "Al volver de su castigo, Galvarino se presentó ante los mapuche, mostrando sus mutilaciones, clamando justicia y un mayor levantamiento mapuche como su antiguo líder Lautaro. Por su valentía y gallardía fue puesto al mando de un escuadrón y con cuchillos amarrados en ambos miembros mutilados reemplazando sus manos luchó fugazmente junto a Caupolicán en las campañas siguientes hasta que, ambos fueron capturados en la Batalla de Millarapue y García Hurtado de Mendoza ordenó matarlo lanzándolo a los perros.",
+            "En el combate de Millarapue, el 30 de noviembre de 1557, luego de un cruel enfrentamiento, Galvarino fue capturado junto con otros jefes indígenas, y el gobernador Hurtado de Mendoza, como medida punitiva, lo mandó ahorcar.",
+            "Galvarino fue condenado a ser colgado de un árbol; pero el poeta Alonso de Ercilla (1533-1594) se esforzó por librarlo de la muerte, alegando que le había visto pasarse a las filas españolas. Galvarino le respondió descubriendo sus brazos mutilados que había tenido ocultos bajo su manta, que no quería recibir la vida de ellos y sólo sentía la muerte por no haber podido hacerlos pedazos con los dientes. Los conquistadores se exaltaron al ver la soberbia del cacique y apuraron la ejecución."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0017",
+      "dialog_node": "node_4_1570123879453",
+      "previous_sibling": "node_6_1570552977121"
     },
     {
       "type": "standard",
@@ -632,31 +833,31 @@
       "output": {
         "text": {
           "values": [
-            "Galvarino fue un guerrero mapuche perteneciente a las filas de Lautaro. Aunque apenas se conocen datos acerca de su vida, Galvarino fue uno de los guerreros mapuche más importantes.",
-            "Galvarino combatió a las fuerzas españolas del gobernador García Hurtado de Mendoza y fue capturado en la batalla de Lagunillas, junto al río Biobío.",
-            "Galvarino fue un cacique mapuche, lugarteniente de Caupolicán, considerado una de las figuras más importantes de la historia mapuche.",
-            "Este valiente mapuche combatió heroicamente a las fuerzas españolas lideradas por el gobernador García Hurtado de Mendoza, hasta su terrible captura ocurrida en la Batalla de Lagunillas en 1557.",
-            "Al ser apresado, los soldados españoles cortaron sus manos a modo de escarmiento, suceso que el poeta Alonso de Ercilla registró en el texto La Araucana, donde narra la valentía de Galvarino, minutos después de ser cercenado “con desdén y menosprecio dello alargó la cabeza y tendió el cuello” para que le quitaran la vida cortándole la cabeza; sin embargo, fue perdonado y regresó con los suyos, jurando vengarse.",
-            "Luego de perder sus manos, Galvarino no se dio por vencido y se armó de dos poderosos cuchillos los que amarró a sus brazos, convirtiéndose en uno de los soldados más temidos, eso hasta el 30 de noviembre de 1557 en el Combate de Millarapue, cuendo fue nuevamente capturado junto con otros indígenas, a los que se les condenó a la horca.",
-            "A minutos de ser ahorcado, Alonso de Ercilla quiso interceder por su vida, a lo que Galvarino con gran repudió respondió con la siguiente frase “Prefiero morir a recibir la vida de vosotros, y sólo siento la muerte por no haber podido haceros pedazos con los dientes”.",
-            "Existen distintas versiones de algunos historiadores chilenos, que indican que el aguerrido mapuche Galvarino se habría suicidado para privar a sus enemigos españoles el placer de terminar con su vida.",
-            "Respecto de Galvarino, el cronista y militar español Mariño de Lobera (1528-1594) afirma que \"fue tanto el coraje , que ya que le faltaron las manos, peleó más fuertemente con la lengua, la cual suele ser más eficaz para hacer guerra que las manos de los Hércules y las industrias de los Césares\".",
-            "Galvarino luchó bajo el mando de Lautaro en las campañas hacia Santiago y Tucapel. Fue tomado prisionero en la batalla de Lagunillas. Juzgado por insurrección, fue condenado a amputación de sus miembros y sus dos manos fueron cortadas. Fue liberado como ejemplo de escarmiento para el resto de los mapuches.",
-            "En la obra teatral Arauco domado, el autor Lope de Vega pondrá en la boca de Galvarino las siguientes palabras dirigidas a García Hurtado de Mendoza:\n\nTu has hallado justos modos\nde castigar y vencer;\npero quedan tantas manos\npor las que cortas en mí\nen los demás araucanos\nque espero que por aquí\nsaldrán tus intentos vanos (...).\ny así esta mano enemiga\nque cortas de este valiente (...).\ntantas manos nacerán\nque las tuyas atarán",
-            "Al volver de su castigo, Galvarino se presentó ante los mapuche, mostrando sus mutilaciones, clamando justicia y un mayor levantamiento mapuche como su antiguo líder Lautaro. Por su valentía y gallardía fue puesto al mando de un escuadrón y con cuchillos amarrados en ambos miembros mutilados reemplazando sus manos luchó fugazmente junto a Caupolicán en las campañas siguientes hasta que, ambos fueron capturados en la Batalla de Millarapue y García Hurtado de Mendoza ordenó matarlo lanzándolo a los perros.",
-            "En el combate de Millarapue, el 30 de noviembre de 1557, luego de un cruel enfrentamiento, Galvarino fue capturado junto con otros jefes indígenas, y el gobernador Hurtado de Mendoza, como medida punitiva, lo mandó ahorcar.",
-            "Galvarino fue condenado a ser colgado de un árbol; pero el poeta Alonso de Ercilla (1533-1594) se esforzó por librarlo de la muerte, alegando que le había visto pasarse a las filas españolas. Galvarino le respondió descubriendo sus brazos mutilados que había tenido ocultos bajo su manta, que no quería recibir la vida de ellos y sólo sentía la muerte por no haber podido hacerlos pedazos con los dientes. Los conquistadores se exaltaron al ver la soberbia del cacique y apuraron la ejecución."
+            "García Hurtado de Mendoza y Manrique, IV marqués de Cañete. Fue un militar español, que llegó a ser gobernador de Chile y VIII virrey del Perú. Fue gobernador de Chile, donde derrotó a Caupolicán y se encargó de organizar la administración española.",
+            "Fue hijo de Andrés Hurtado de Mendoza, II marqués de Cañete y virrey del Perú, y de María Manrique, hija del conde de Osorno. Pertenecía a una de las más importantes familias de la aristocracia castellana: la Casa de Mendoza. Sucedió en el marquesado a su hermano Diego Hurtado de Mendoza y Manrique, III marqués de cañete.",
+            "Al conocer que su padre sería designado virrey del Perú, volvió a España y le pidió que lo llevase a América. Durante el viaje se encontraba también Jerónimo de Alderete, que había sido designado por el rey como sucesor de Pedro de Valdivia en la gobernación de Chile, pero cuando arribaron a Nombre de Dios en Centroamérica y tuvieron que atravesar el istmo para poder embarcarse en la ciudad de Panamá, Alderete cayó gravemente enfermo de fiebre amarilla y murió el 7 de abril de 1556 en la isla de Taboga, antes de llegar a destino.",
+            "Con estos acontecimiento y con el poder que tenía su padre como virrey del Perú, convocó a gente proveniente de Chile y viendo que diferían si Villagra o Aguirre calificaban como el sucesor de Valdivia, decidió mantenerse neutral y nombró a su hijo como nuevo gobernador de Chile, sumado a que un nuevo gobernador que no tuviese afinidades con el ya fallecido Valdivia haría atraer más españoles hacia Chile, además de unificar a los bandos en disputa. La primera medida de su gobierno fue la de mandar a apresar a estos dos aspirantes al puesto por insurrección y los enviaría a Lima.",
+            "Gobernador de Chile\nDicho nombramiento agradó a García y se informó de los problemas que existían en Chile, sobre todo el asunto de la rebelión indígena y la disputa grave entre Francisco de Aguirre y Francisco de Villagra por el puesto de gobernador de Chile.\n\nContaba con 21 años de edad y era un joven de demostrada valentía, orgulloso de su linaje e inteligencia, y como contraparte, poseedor de un carácter muy altanero y orgulloso, de accesos violentos, muy cerrado y autoritario, lo que le granjearía ocultos enemigos en su propio círculo.",
+            "Para gobernar Chile contó con renovados caudales de las arcas del Perú y apertrechó ocho barcos, aquí resulta paradójico que el entusiasmo de venir a Chile tuviera una extraordinaria respuesta en contraste con tiempos pasados, pues se enrolaron 500 hispanos, una parte se vendría por tierra al mando de Luis de Toledo y Pedro de Castillo; y la otra parte por mar junto al nuevo gobernador. El primer grupo salió por tierra en enero de 1557 y el segundo por mar en febrero del mismo año.",
+            "Junto con García Hurtado de Mendoza venía un séquito de ilustres hombres, entre ellos Alonso de Ercilla y Zúñiga, Francisco de Irarrázaval y Andía, Francisco Pérez de Valenzuela, Hernando de Santillán, jurista y erudito, el fraile dominico Gil González de San Nicolás y el franciscano Juan Gallegos, hombre muy ilustrado.",
+            "Desembarcó en La Serena el 23 de abril de 1557. Y deslumbró a los pobres de Coquimbo al ver junto al nuevo gobernador el ejército más grande hasta entonces visto en estos lugares contando con más de 500 hombres, armados con arcabuces y cañones, vestidos con armaduras y penachos de plumas. Desde entonces se les llamó los \"emplumados\".",
+            "Francisco de Aguirre le recibió muy hospitalariamente en La Serena, pero conociendo el nuevo gobernador los problemas de litigio entre Aguirre y Francisco de Villagra por la gobernación de Chile, no dudó un segundo en tomarlos presos, repitiéndose la misma situación con Villagra que venía llegando a La Serena y los colocó en un barco. Este hecho fue considerado muy injusto por los castellanos avecindados en Chile ya que ambos tenían méritos más que suficientes para ser enaltecidos.",
+            "Lo más natural y dada la aproximación del invierno era que el gobernador viniese a Santiago, así que el cabildo hizo los preparativos de bienvenida, pero García Hurtado tenía otros planes, decidió seguir por mar a Concepción a pesar de los consejos en contra de quienes ya conocían las inclemencias del tiempo, que hacía el viaje peligroso por esas fechas. En Coquimbo envió la caballería por tierra y el zarpó el 21 de junio de 1557, en pleno invierno.",
+            "Llegó 8 días después a la bahía de Concepción en medio de un temporal que hacía correr peligro a las embarcaciones y en medio de una torrencial lluvia desembarcaron en la isla de la Quiriquina levantando un campamento provisional.\n\nUna vez asentado en Concepción, García Hurtado pretendió una política de aparente allegamiento y buena voluntad hacia los indígenas, quienes aceptaron los regalos del gobernador pero no estaban dispuestos a que sus territorios fueran ocupados por los advenedizos españoles.",
+            "Lincoyán y otros caciques supieron que la caballería venía por tierra desde Santiago y concibieron un plan que pretendía cortar dichas fuerzas atacándolas en Andalicán, cercano a Concepción.\n\nGarcía Hurtado que no era ningún ingenuo, supo del plan indígena y se dio cuenta que dicha conducta más que promover un acercamiento era considerado por los mapuches como signos de debilidad y temor por parte del nuevo gobernador, decidió cambiar entonces radicalmente de actitud con ellos.\n\nSe dirigió de inmediato a tierra mapuche, levantando el fuerte San Luis de Toledo con el objeto de abortar esta iniciativa, que fue prontamente atacado por los mapuches que, sin embargo, salieron derrotados, ya que el gobernador logró contrarrestar su número con la fuerza de los cañones y arcabuces.",
+            "Dirigió una nueva campaña en octubre de 1557, con un poderoso ejército de más de 500 hombre y miles de indios auxiliares. Ocurrió en esta campaña la Batalla de Lagunillas (7 de noviembre), en donde los españoles salieron vivos debido principalmente a la valentía demostrada por Rodrigo de Quiroga y los demás capitanes.\n\nLos mapuches se mostraron desorganizados en el ataque al ser conducidos por varios caciques a la vez y este desorden produjo fallos tácticos que impidieron su victoria.",
+            "Cuenta Alonso de Ercilla, que vino a Chile en el grupo que trajo el gobernador, que los españoles tomaron prisionero en esa batalla al cacique Galvarino, al que le cortaron la mano izquierda. Perdida esa mano sin ninguna mueca de dolor Galvarino coloco la otra, que también se la cortaron. Pidió la muerte, pero los conquistadores lo dejaron ir y se fue el mapuche con los suyos para planear su venganza.\n\nLos mapuches convocaron una reunión de caciques y eligieron a Caupolicán."
           ],
           "selection_policy": "random"
         }
       },
-      "conditions": "#A0017",
-      "dialog_node": "node_4_1570123879453"
+      "conditions": "#A0022",
+      "dialog_node": "node_1_1570555489551"
     }
   ],
   "workspace_id": "807ffb85-d4c2-42f5-96db-e5cba4068e28",
   "counterexamples": [],
   "system_settings": {},
   "learning_opt_out": false,
-  "status": "Training"
+  "status": "Available"
 }
