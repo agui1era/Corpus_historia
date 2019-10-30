@@ -5,28 +5,28 @@
       "intent": "A0005",
       "examples": [
         {
+          "text": "¿Cuándo fue el descubrimiento de Chile?"
+        },
+        {
           "text": "Descubrimiento de Chile"
         },
         {
           "text": "1541"
         },
         {
-          "text": "Estrecho de Magallanes"
-        },
-        {
-          "text": "¿Cuándo fue el descubrimiento de Chile?"
-        },
-        {
           "text": "1536"
         },
         {
-          "text": "¿Quién descubrió Chile?"
+          "text": "Estrecho de Magallanes"
+        },
+        {
+          "text": "Descubrimiento del Estrecho de Magallanes"
         },
         {
           "text": "1520"
         },
         {
-          "text": "Descubrimiento del Estrecho de Magallanes"
+          "text": "¿Quién descubrió Chile?"
         }
       ],
       "description": "Descubrimiento de Chile"
@@ -38,10 +38,10 @@
           "text": "Gobernador Francisco Villagra"
         },
         {
-          "text": "Francisco Villagra"
+          "text": "Gobernador Francisco de Villagra"
         },
         {
-          "text": "Gobernador Francisco de Villagra"
+          "text": "Francisco Villagra"
         }
       ],
       "description": "Francisco de Villagra"
@@ -50,13 +50,13 @@
       "intent": "A0012",
       "examples": [
         {
-          "text": "Francisco Pizarro"
+          "text": "¿Quien fue Diego de Almagro?"
         },
         {
           "text": "Descubridor de Chile"
         },
         {
-          "text": "¿Quien fue Diego de Almagro?"
+          "text": "Francisco Pizarro"
         }
       ],
       "description": "Diego de Almagro"
@@ -65,13 +65,13 @@
       "intent": "A0015",
       "examples": [
         {
-          "text": "Quien fue Caupolican?"
-        },
-        {
           "text": "¿Quién fue Caupolicán?"
         },
         {
           "text": "Toqui Mapuche"
+        },
+        {
+          "text": "Quien fue Caupolican?"
         }
       ],
       "description": "Caupolicán"
@@ -80,13 +80,13 @@
       "intent": "A0020",
       "examples": [
         {
-          "text": "Gobernador Rodrigo Quiroga"
+          "text": "Gobernador Rodrigo de Quiroga"
         },
         {
           "text": "Rodrigo Quiroga"
         },
         {
-          "text": "Gobernador Rodrigo de Quiroga"
+          "text": "Gobernador Rodrigo Quiroga"
         }
       ],
       "description": "Rodrigo de Quiroga"
@@ -95,55 +95,124 @@
       "intent": "A0007",
       "examples": [
         {
-          "text": "Primer persidente de Chie"
-        },
-        {
-          "text": "¿Quién fue el primer Presidente de la República de Chile?"
+          "text": "Conoces el primer presidente de Chile"
         },
         {
           "text": "Quien fue el primer presidente de Chile"
         },
         {
-          "text": "Me puedes decir el primer presidente Chile"
+          "text": "¿Quién fue el primer Presidente de la República de Chile?"
         },
         {
-          "text": "Conoces el primer presidente de Chile"
+          "text": "Primer persidente de Chie"
+        },
+        {
+          "text": "Me puedes decir el primer presidente Chile"
         }
       ],
       "description": "¿Quién fue el primer Presidente de la República de Chile?"
     },
     {
+      "intent": "A0024",
+      "examples": [
+        {
+          "text": "José Miguel de la Carrera y Verdugo"
+        },
+        {
+          "text": "Jose Miguel Carrera"
+        },
+        {
+          "text": "José Miguel Carrera Verdugo"
+        }
+      ],
+      "description": "José Miguel Carrera"
+    },
+    {
+      "intent": "A0027",
+      "examples": [
+        {
+          "text": "Pedro de Viscarra de la Barrera"
+        },
+        {
+          "text": "Pedro Viscarra"
+        },
+        {
+          "text": "Gobernador Pedro de Viscarra"
+        }
+      ],
+      "description": "Pedro de Viscarra"
+    },
+    {
+      "intent": "A0023",
+      "examples": [
+        {
+          "text": "Sabes algo de Manuel Rodriguez"
+        },
+        {
+          "text": "Manuel Rodrigues"
+        },
+        {
+          "text": "Conoces a Manuel Rodriguez?"
+        },
+        {
+          "text": "Quien fue manuel rodriguez?"
+        },
+        {
+          "text": "Me puedes ayudar con con manuel rodriguez"
+        }
+      ],
+      "description": "Manuel Rodriguez"
+    },
+    {
       "intent": "A0022",
       "examples": [
         {
-          "text": "Gobernador Hurtado de Mendoza"
+          "text": "Gobernador Mendoza"
         },
         {
-          "text": "Hurtado de Mendoza"
+          "text": "Gobernador Hurtado de Mendoza"
         },
         {
           "text": "Gobernador García Hurtado de Mendoza"
         },
         {
-          "text": "Gobernador García"
+          "text": "Hurtado de Mendoza"
         },
         {
-          "text": "Gobernador Mendoza"
+          "text": "Gobernador García"
         }
       ],
       "description": "García Hurtado de Mendoza"
     },
     {
+      "intent": "A0028",
+      "examples": [
+        {
+          "text": "Gobernador Martín García Óñez de Loyola"
+        },
+        {
+          "text": "Martín García"
+        },
+        {
+          "text": "Martín García Óñez"
+        },
+        {
+          "text": "García Óñez de Loyola"
+        }
+      ],
+      "description": "Martín García Óñez de Loyola"
+    },
+    {
       "intent": "A0018",
       "examples": [
         {
-          "text": "Caprtura del Huascar"
+          "text": "Combate de Angamos"
         },
         {
           "text": "Captura del monitor Huascar"
         },
         {
-          "text": "Combate de Angamos"
+          "text": "Caprtura del Huascar"
         },
         {
           "text": "Muerte de Miguel Grau"
@@ -155,7 +224,7 @@
       "intent": "A0014",
       "examples": [
         {
-          "text": "¿Quien fue Hernando de Magallanes?"
+          "text": "Magallanes"
         },
         {
           "text": "Hernando de Magallanes"
@@ -164,7 +233,7 @@
           "text": "Fernando de Magallanes"
         },
         {
-          "text": "Magallanes"
+          "text": "¿Quien fue Hernando de Magallanes?"
         }
       ],
       "description": "Hernando de Magallanes"
@@ -173,13 +242,13 @@
       "intent": "A0002",
       "examples": [
         {
-          "text": "Cuando es el 18?"
+          "text": "Cúando son las fiestas patrias"
         },
         {
           "text": "Que se celebra el 18 de septiembre?"
         },
         {
-          "text": "Cúando son las fiestas patrias"
+          "text": "Cuando es el 18?"
         }
       ],
       "description": "Que se celebra el 18 de septiembre?"
@@ -188,13 +257,13 @@
       "intent": "A0010",
       "examples": [
         {
-          "text": "Me puedes contar acerca de la primera bandera de Chile"
-        },
-        {
           "text": "Conoces la primera bandera de Chile"
         },
         {
           "text": "Cómo era la primera bandera de Chile"
+        },
+        {
+          "text": "Me puedes contar acerca de la primera bandera de Chile"
         }
       ],
       "description": "¿Cuáles eran los colores de la primera bandera chilena?"
@@ -203,16 +272,16 @@
       "intent": "A0006",
       "examples": [
         {
-          "text": "Que es Chile"
+          "text": "conoces el Pais de Chile"
         },
         {
           "text": "Dime que es Chile"
         },
         {
-          "text": "conoces el Pais de Chile"
+          "text": "Donde esta Chile"
         },
         {
-          "text": "Donde esta Chile"
+          "text": "Que es Chile"
         }
       ],
       "description": "Qué es Chile"
@@ -221,13 +290,13 @@
       "intent": "A0011",
       "examples": [
         {
-          "text": "Dime el río más largo de Chile"
+          "text": "Conoces el río más largo de Chile"
         },
         {
           "text": "Río mas largo de Chile?"
         },
         {
-          "text": "Conoces el río más largo de Chile"
+          "text": "Dime el río más largo de Chile"
         },
         {
           "text": "Me puedes indicar cual es el río más largo de Chile"
@@ -236,28 +305,46 @@
       "description": "¿Cuál es el río más largo de Chile?"
     },
     {
+      "intent": "A0025",
+      "examples": [
+        {
+          "text": "Melchor Bravo Saravia"
+        },
+        {
+          "text": "Melchor Bravo Saravia Sotomayor"
+        },
+        {
+          "text": "Melchor Bravo de Saravia y Sotomayor"
+        },
+        {
+          "text": "Melchor Bravo de Saravia"
+        }
+      ],
+      "description": "Melchor Bravo"
+    },
+    {
       "intent": "A0017",
       "examples": [
         {
-          "text": "Guerrero mapuche sin manos"
-        },
-        {
-          "text": "garbarino"
-        },
-        {
-          "text": "Quien fue Galvarino?"
+          "text": "Castigo español"
         },
         {
           "text": "¿Quién fue Galvarino?"
         },
         {
+          "text": "Quien fue Galvarino?"
+        },
+        {
           "text": "Cuentame de Galvarino"
+        },
+        {
+          "text": "garbarino"
         },
         {
           "text": "Que sabes de Galvarino"
         },
         {
-          "text": "Castigo español"
+          "text": "Guerrero mapuche sin manos"
         }
       ],
       "description": "Galvarino"
@@ -266,31 +353,31 @@
       "intent": "A0004",
       "examples": [
         {
-          "text": "Acta de Independencia de Chile"
+          "text": "Independencia de Chile"
         },
         {
           "text": "Cuando se firmó el Acta de Independencia de Chile?"
         },
         {
-          "text": "acta idependencia Concepción"
-        },
-        {
-          "text": "firma acta independencia"
-        },
-        {
-          "text": "2 de febrero de 1818"
-        },
-        {
-          "text": "1 de enero de 1818"
-        },
-        {
-          "text": "Chile independiente"
+          "text": "Acta de Independencia de Chile"
         },
         {
           "text": "independencia de la Monarquía Española"
         },
         {
-          "text": "Independencia de Chile"
+          "text": "Chile independiente"
+        },
+        {
+          "text": "1 de enero de 1818"
+        },
+        {
+          "text": "2 de febrero de 1818"
+        },
+        {
+          "text": "firma acta independencia"
+        },
+        {
+          "text": "acta idependencia Concepción"
         },
         {
           "text": "acta independencia Talca"
@@ -302,19 +389,34 @@
       "intent": "A0009",
       "examples": [
         {
-          "text": "Quien hizo el himno Chileno?"
+          "text": "Conoces quien escribió el himno Chileno"
         },
         {
           "text": "¿Quién escribió el himno chileno?"
         },
         {
-          "text": "Conoces quien escribió el himno Chileno"
+          "text": "Quien hizo el himno Chileno?"
         },
         {
           "text": "Qien fue el auto del Himno Chileno"
         }
       ],
       "description": "¿Quién escribió el himno chileno?"
+    },
+    {
+      "intent": "A0026",
+      "examples": [
+        {
+          "text": "Alonso Sotomayor"
+        },
+        {
+          "text": "Gobernador Alonso de Sotomayor"
+        },
+        {
+          "text": "Alonso de Sotomayor"
+        }
+      ],
+      "description": "Alonso de Sotomayor y Valmediano"
     },
     {
       "intent": "A0016",
@@ -326,10 +428,10 @@
           "text": "Necesito saber de Lautaro"
         },
         {
-          "text": "¿Quién fue Lauraro?"
+          "text": "Leftraru"
         },
         {
-          "text": "Leftraru"
+          "text": "¿Quién fue Lauraro?"
         },
         {
           "text": "Quien fue Lautaro?"
@@ -347,16 +449,16 @@
           "text": "Combate Naval muy conocido"
         },
         {
-          "text": "Cuando murió Arturo Prat"
-        },
-        {
-          "text": "Cuando fue el Combate Naval de Iquique"
+          "text": "Guerra del Pacifico"
         },
         {
           "text": "Que se celebra el 21 de mayo?"
         },
         {
-          "text": "Guerra del Pacifico"
+          "text": "Cuando fue el Combate Naval de Iquique"
+        },
+        {
+          "text": "Cuando murió Arturo Prat"
         }
       ],
       "description": "Que se celebra el 21 de mayo?"
@@ -377,10 +479,10 @@
       "intent": "A0021",
       "examples": [
         {
-          "text": "Gobernador Francisco Aguirre"
+          "text": "Gobernador Francisco de Aguirre"
         },
         {
-          "text": "Gobernador Francisco de Aguirre"
+          "text": "Gobernador Francisco Aguirre"
         },
         {
           "text": "Francisco Aguirre"
@@ -392,22 +494,22 @@
       "intent": "A0001",
       "examples": [
         {
-          "text": "Aloja"
+          "text": "Hola"
         },
         {
           "text": "Hello"
         },
         {
-          "text": "Hola"
+          "text": "Aloja"
         },
         {
-          "text": "Hi"
+          "text": "que tal"
         },
         {
           "text": "Como estai"
         },
         {
-          "text": "que tal"
+          "text": "Hi"
         }
       ],
       "description": "Saludar"
@@ -416,13 +518,13 @@
       "intent": "A0008",
       "examples": [
         {
-          "text": "murió Bernardo O’Higgins?"
+          "text": "¿En qué lugar murió Bernardo O’Higgins?"
         },
         {
           "text": "Donde murió Bernardo O’Higgins"
         },
         {
-          "text": "¿En qué lugar murió Bernardo O’Higgins?"
+          "text": "murió Bernardo O’Higgins?"
         },
         {
           "text": "En que país murió Bernardo O’Higgins"
@@ -583,6 +685,27 @@
       "output": {
         "text": {
           "values": [
+            "José Miguel de la Carrera y Verdugo fue un político y militar chileno. Prócer de la emancipación de Chile y destacado participante en las guerras de independencia, es reconocido como uno de los «padres de la Patria de Chile», jefe de gobierno, el primer general en jefe del Ejército y el primer caudillo en la historia republicana del país, y uno de los primeros de América.",
+            "Era descendiente de una familia aristocrática hispana y tras servir a las armas del rey de España en contra del ejército de Napoleón, volvió a Chile en julio de 1811. ",
+            "Después de sucesivos golpes de Estado, el 15 de noviembre de dicho año se hizo nombrar presidente de la Junta Provisional de Gobierno de la actualmente llamada Patria Vieja y, tras disolver el Congreso Nacional, asumió plenos poderes el 2 de diciembre.",
+            "Su gobierno, abiertamente separatista con respecto al aparato estatal de España, tuvo que enfrentar la invasión que el virrey Abascal mandó a realizar desde Talcahuano, desencadenando así la Guerra por la Independencia de Chile.",
+            "Tras liderar el primer proceso emancipador chileno conocido como Patria Vieja y después de la batalla de Rancagua, la cual resulta en una derrota, Carrera encabeza el éxodo patriota y se retira de Chile junto con el resto de militares y ciudadanos a la ciudad argentina de Mendoza. ",
+            "Allí trató de reorganizar la lucha y la liberación de su país, para lo cual decide viajar a los Estados Unidos donde el presidente James Madison lo recibe, logrando organizar una escuadra naval con oficiales napoleónicos y norteamericanos. Volvió a Sudamérica, pero la Logia Lautaro impidió que pudiera regresar a Chile.",
+            "Su vida política y militar desde 1818 en adelante se transformó en una enconada lucha entre quienes gobernaban Chile y Argentina, de fuerte influencia británica, y quienes veían a la República como el ideal a seguir. Fue fusilado en Mendoza el 4 de septiembre de 1821 a los 35 años de edad. Estos hechos fueron los que dieron al poeta chileno Pablo Neruda, premio Nobel, la inspiración para otorgarle el título de Príncipe de los caminos.​",
+            ""
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0024",
+      "dialog_node": "node_3_1571147215620",
+      "previous_sibling": "node_3_1571157768908"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
             "Diego de Almagro fue un adelantado y conquistador español. Participó en la conquista de Perú y se le considera oficialmente el descubridor de Chile; fue también el primer europeo en llegar al actual territorio de Bolivia."
           ],
           "selection_policy": "sequential"
@@ -629,6 +752,52 @@
       "conditions": "#A0009",
       "dialog_node": "node_7_1569803955038",
       "previous_sibling": "node_9_1569804180051"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alonso de Sotomayor y Valmediano, fue un conquistador español de origen extremeño, gobernador del Reino de Chile."
+              },
+              {
+                "text": "Fue hijo de Gutiérrez de Sotomayor e Hinojosa y Beatriz de Valmediano. Con 15 años se enroló por primera vez en el ejército, sirviendo en Italia hasta 1567, para luego pasar a Flandes."
+              },
+              {
+                "text": "Felipe II, al ver la eficiencia de este soldado, le otorgó la gracia del hábito de caballero de la orden de Santiago, y le mandó en la campaña sobre Portugal. En esos momentos le llegaron las noticias de Chile, de cómo continuaba la Guerra de Arauco y la necesidad de auxilios, para resolver de una buena vez el asunto, el rey decidió enviar como gobernador de Chile a Sotomayor con un numeroso grupo de soldados."
+              },
+              {
+                "text": "Llegó a Chile en 1583, contando además con el cargo de juez de residencia por lo que tuvo que hacerse cargo de las innumerables acusaciones al gobernador cesante, Martín Ruiz de Gamboa, que se había vuelto muy impopular por su tasa indígena que prohibía el trabajo personal de los indios."
+              },
+              {
+                "text": "Con estos antecedentes, su primera decisión fue el restablecimiento del sistema de servicio personal de los indios, derogando la Tasa de Gamboa y reimplantando la Tasa de Santillán, aunque humanizándolo para evitar los excesos que eran víctima los indios de sus encomenderos."
+              },
+              {
+                "text": "Quería desarrollar la conquista de Chile con el estilo de Pedro de Valdivia, es decir, construyendo fuertes que se protegieran entre sí y a las ciudades, idea que no logró realizar, pues necesitaba para ello un ejército profesional, petición no satisfecha por las autoridades hispanas por la escasez de recursos con que contaba la Corona."
+              },
+              {
+                "text": "Realizó por entonces varias campañas contra los mapuche. Logró capturar al mestizo Alonso Díaz, que dirigía desde hacia algunos años. Envió a su hermano Luis a realizar una campaña en las inmediaciones de Valdivia, y logró rechazar a los mapuche en un ataque sorpresa que les realizaron en Angol (16 de enero de 1585)."
+              },
+              {
+                "text": "Mas todas estas acciones no debilitaban realmente a los mapuches, pues la captura de Díaz nada cambió y los fuertes no produjeron el efecto deseado. En cambio los araucanos se mostraban cada día más diestros en el manejo de las armas y los caballos españoles, siendo su único límite el arcabuz, pues aún no sabían manejarlo y la falta de pólvora se lo hubiera impedido de todos modos."
+              },
+              {
+                "text": "Entre los problemas que debió enfrentar destacan los ataques de corsarios ingleses, destacándose entre ellos Thomas Cavendish, quien fondeada el 9 de abril de 1587 en Quintero, en el que sus hombres fueron derrotados por fuerzas españolas, perdiendo 10 de sus hombres. Además de los mapuches tuvo que enfrentar dos sublevaciones de los soldados del sur, motivadas por las penurias que sufrían, pues deseaban ser pagados con sueldo y ya no con encomiendas."
+              },
+              {
+                "text": "Alarmado por esta situación y por los pocos refuerzos enviados, se dirigió el 30 de julio de 1592 al Perú, con esperanzas de obtener hombres que le permitiesen realizar una campaña eficaz contra los araucanos. Dejó en el mando al licenciado Pedro de Viscarra, letrado anciano y circunspecto, que cerca de dos años antes había llegado de España con el título de teniente de gobernador y justicia mayor del reino de Chile."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#A0026",
+      "dialog_node": "node_1_1572382156619",
+      "previous_sibling": "node_4_1572383651046"
     },
     {
       "type": "standard",
@@ -687,6 +856,20 @@
       "conditions": "#A0015",
       "dialog_node": "node_10_1570121662441",
       "previous_sibling": "node_5_1570122301022"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Manuel Javier Rodríguez y Erdoíza  fue un patriota chileno que realizó innumerables acciones en diferentes cargos para lograr la independencia de Chile, como abogado, político, guerrillero y con el grado militar de Coronel, siendo reconocido como uno de los «padres de la Patria de Chile."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#A0023",
+      "dialog_node": "node_4_1571122976276",
+      "previous_sibling": "node_3_1571147215620"
     },
     {
       "type": "standard",
@@ -775,6 +958,79 @@
       },
       "conditions": "anything_else",
       "dialog_node": "En otras cosas",
+      "previous_sibling": "node_1_1572382156619"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "García Hurtado de Mendoza y Manrique, IV marqués de Cañete. Fue un militar español, que llegó a ser gobernador de Chile y VIII virrey del Perú. Fue gobernador de Chile, donde derrotó a Caupolicán y se encargó de organizar la administración española.",
+            "Fue hijo de Andrés Hurtado de Mendoza, II marqués de Cañete y virrey del Perú, y de María Manrique, hija del conde de Osorno. Pertenecía a una de las más importantes familias de la aristocracia castellana: la Casa de Mendoza. Sucedió en el marquesado a su hermano Diego Hurtado de Mendoza y Manrique, III marqués de cañete.",
+            "Al conocer que su padre sería designado virrey del Perú, volvió a España y le pidió que lo llevase a América. Durante el viaje se encontraba también Jerónimo de Alderete, que había sido designado por el rey como sucesor de Pedro de Valdivia en la gobernación de Chile, pero cuando arribaron a Nombre de Dios en Centroamérica y tuvieron que atravesar el istmo para poder embarcarse en la ciudad de Panamá, Alderete cayó gravemente enfermo de fiebre amarilla y murió el 7 de abril de 1556 en la isla de Taboga, antes de llegar a destino.",
+            "Con estos acontecimiento y con el poder que tenía su padre como virrey del Perú, convocó a gente proveniente de Chile y viendo que diferían si Villagra o Aguirre calificaban como el sucesor de Valdivia, decidió mantenerse neutral y nombró a su hijo como nuevo gobernador de Chile, sumado a que un nuevo gobernador que no tuviese afinidades con el ya fallecido Valdivia haría atraer más españoles hacia Chile, además de unificar a los bandos en disputa. La primera medida de su gobierno fue la de mandar a apresar a estos dos aspirantes al puesto por insurrección y los enviaría a Lima.",
+            "Gobernador de Chile\nDicho nombramiento agradó a García y se informó de los problemas que existían en Chile, sobre todo el asunto de la rebelión indígena y la disputa grave entre Francisco de Aguirre y Francisco de Villagra por el puesto de gobernador de Chile.\n\nContaba con 21 años de edad y era un joven de demostrada valentía, orgulloso de su linaje e inteligencia, y como contraparte, poseedor de un carácter muy altanero y orgulloso, de accesos violentos, muy cerrado y autoritario, lo que le granjearía ocultos enemigos en su propio círculo.",
+            "Para gobernar Chile contó con renovados caudales de las arcas del Perú y apertrechó ocho barcos, aquí resulta paradójico que el entusiasmo de venir a Chile tuviera una extraordinaria respuesta en contraste con tiempos pasados, pues se enrolaron 500 hispanos, una parte se vendría por tierra al mando de Luis de Toledo y Pedro de Castillo; y la otra parte por mar junto al nuevo gobernador. El primer grupo salió por tierra en enero de 1557 y el segundo por mar en febrero del mismo año.",
+            "Junto con García Hurtado de Mendoza venía un séquito de ilustres hombres, entre ellos Alonso de Ercilla y Zúñiga, Francisco de Irarrázaval y Andía, Francisco Pérez de Valenzuela, Hernando de Santillán, jurista y erudito, el fraile dominico Gil González de San Nicolás y el franciscano Juan Gallegos, hombre muy ilustrado.",
+            "Desembarcó en La Serena el 23 de abril de 1557. Y deslumbró a los pobres de Coquimbo al ver junto al nuevo gobernador el ejército más grande hasta entonces visto en estos lugares contando con más de 500 hombres, armados con arcabuces y cañones, vestidos con armaduras y penachos de plumas. Desde entonces se les llamó los \"emplumados\".",
+            "Francisco de Aguirre le recibió muy hospitalariamente en La Serena, pero conociendo el nuevo gobernador los problemas de litigio entre Aguirre y Francisco de Villagra por la gobernación de Chile, no dudó un segundo en tomarlos presos, repitiéndose la misma situación con Villagra que venía llegando a La Serena y los colocó en un barco. Este hecho fue considerado muy injusto por los castellanos avecindados en Chile ya que ambos tenían méritos más que suficientes para ser enaltecidos.",
+            "Lo más natural y dada la aproximación del invierno era que el gobernador viniese a Santiago, así que el cabildo hizo los preparativos de bienvenida, pero García Hurtado tenía otros planes, decidió seguir por mar a Concepción a pesar de los consejos en contra de quienes ya conocían las inclemencias del tiempo, que hacía el viaje peligroso por esas fechas. En Coquimbo envió la caballería por tierra y el zarpó el 21 de junio de 1557, en pleno invierno.",
+            "Llegó 8 días después a la bahía de Concepción en medio de un temporal que hacía correr peligro a las embarcaciones y en medio de una torrencial lluvia desembarcaron en la isla de la Quiriquina levantando un campamento provisional.\n\nUna vez asentado en Concepción, García Hurtado pretendió una política de aparente allegamiento y buena voluntad hacia los indígenas, quienes aceptaron los regalos del gobernador pero no estaban dispuestos a que sus territorios fueran ocupados por los advenedizos españoles.",
+            "Lincoyán y otros caciques supieron que la caballería venía por tierra desde Santiago y concibieron un plan que pretendía cortar dichas fuerzas atacándolas en Andalicán, cercano a Concepción.\n\nGarcía Hurtado que no era ningún ingenuo, supo del plan indígena y se dio cuenta que dicha conducta más que promover un acercamiento era considerado por los mapuches como signos de debilidad y temor por parte del nuevo gobernador, decidió cambiar entonces radicalmente de actitud con ellos.\n\nSe dirigió de inmediato a tierra mapuche, levantando el fuerte San Luis de Toledo con el objeto de abortar esta iniciativa, que fue prontamente atacado por los mapuches que, sin embargo, salieron derrotados, ya que el gobernador logró contrarrestar su número con la fuerza de los cañones y arcabuces.",
+            "Dirigió una nueva campaña en octubre de 1557, con un poderoso ejército de más de 500 hombre y miles de indios auxiliares. Ocurrió en esta campaña la Batalla de Lagunillas (7 de noviembre), en donde los españoles salieron vivos debido principalmente a la valentía demostrada por Rodrigo de Quiroga y los demás capitanes.\n\nLos mapuches se mostraron desorganizados en el ataque al ser conducidos por varios caciques a la vez y este desorden produjo fallos tácticos que impidieron su victoria.",
+            "Cuenta Alonso de Ercilla, que vino a Chile en el grupo que trajo el gobernador, que los españoles tomaron prisionero en esa batalla al cacique Galvarino, al que le cortaron la mano izquierda. Perdida esa mano sin ninguna mueca de dolor Galvarino coloco la otra, que también se la cortaron. Pidió la muerte, pero los conquistadores lo dejaron ir y se fue el mapuche con los suyos para planear su venganza.\n\nLos mapuches convocaron una reunión de caciques y eligieron a Caupolicán."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "conditions": "#A0022",
+      "dialog_node": "node_1_1570555489551",
+      "previous_sibling": "node_4_1571122976276"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Martín García Óñez de Loyola, fue un conquistador y funcionario colonial español, que participó en importantes acciones militares y ejerció altos cargos políticos en el Virreinato del Perú, entre ellos el de gobernador del Reino de Chile."
+              },
+              {
+                "text": "Nació en Azpeitia (Guipúzcoa) en el seno de la rica familia de Loyola. Sus padres fueron los vizcaínos Martín García de Loyola y Araoz, y María Nicolasa de Oyanguren. Al crear su abuelo el mayorazgo de Oñaz y Loyola, dejó toda la fortuna al primogénito, Beltrán de Oñaz, tío de Martín. Martín era sobrino-nieto de San Ignacio de Loyola."
+              },
+              {
+                "text": "García Óñez de Loyola llegó a Chile el 23 de septiembre de 1592 determinado a pacificar Arauco, por lo que se dirigió de inmediato a Concepción a la cabeza de 110 hombres que logró reunir en la capital (febrero del año siguiente). Con tan escasos recursos que disponía en el reino, García Óñez de Loyola se dio cuenta de que sin refuerzos desde el Perú no lograría nada; su campaña contra los mapuche se mantenía con solo poco más de 200 soldados"
+              },
+              {
+                "text": "La aparición del pirata británico Richard Hawkins, que encendió la alarma en el Perú, retrasó el envío de refuerzos (se decía que eran necesarios para la defensa del virreino). Hawkins en sus correrías atacó también el puerto de Valparaíso, pero como el botín era muy pobre, en un acto caballeresco, devolvió los artículos que no le servían y dejó en libertad a los marineros apresados."
+              },
+              {
+                "text": "El gobernador no recibió los soldados solicitados, pero sí llegaron dos órdenes religiosas, los agustinos y los jesuitas; estos últimos tendrían una gran importancia en los futuros sucesos ocurridos durante el período colonial en Chile, hasta su expulsión en 1767."
+              },
+              {
+                "text": "El gobernador decidió no esperar más, y en 1594 inició las campañas del sur con el reducido contingente con que contaba. Tres años después llegó un refuerzo de 140 hombres, pero no bastaban, a lo que se sumó la negativa de Santiago de enviar más soldados. Los pocos refuerzos que llegaron del Perú no se debían a una decisión del virrey, que ofrecía generosas ofertas a quien se uniera, sino a que el nombre de Chile estaba desprestigiado por esa guerra interminable, y nadie deseaba arriesgar su vida yendo allí."
+              },
+              {
+                "text": "Se encontraba el gobernador en La Imperial cuando le llegó la noticia de que en Angol los mapuche habían reanudado sus ataques, por lo que partió el 21 de diciembre de 1598 con 50 jinetes españoles y unos 300 yanaconas auxiliares. Distante ambas localidades 20 leguas (1 legua=5,6km), el trayecto era muy peligroso. Los fuertes más próximos —San Salvador de Coya (anteriormente destruido) y Jesús en Purén, junto al fuerte Huadaba, actual Los Sauces— estaban pasadas las ciénagas y el lago Lumaco; el paraje de Curalaba era un lugar de tránsito utilizado por el ejército español para pernoctar."
+              },
+              {
+                "text": "Al atardecer del 21 de diciembre de 1598, avanzan una legua hasta un paraje llamado Pailachaca, para continuar muy temprano al día siguiente marchando hasta Curalaba (=piedra partida), a orillas del río Lumaco, encajonado en este lugar por altas barrancas, donde descansaron sin tomar ninguna medida de precaución para evitar un ataque. Este lugar se encuentra en la entrada del actual pueblo de Lumaco y las comunidades mapuche mantienen historias sobre ese suceso. En la madrugada del 23 los mapuche se acercaron al campamento, y al trueno de sus gritos y cuernos se lanzaron al ataque de los españoles."
+              },
+              {
+                "text": "En el combate murieron casi todos los españoles, incluido el gobernador; se salvaron solo el clérigo Bartolomé Pérez, hecho prisionero, y Bernardo de Pereda, soldado que quedó tirado en el campo de batalla con 23 heridas en el cuerpo, pero aún vivo."
+              },
+              {
+                "text": "Fue tal la importancia de la victorai sobre los españoles, que se reunieron decenas de lonkos y sus konas en la casa del lonko de Lumaco Wenumilla a celebrar. Posteriormente, los mapuche iniciaron entonces un levantamiento general que terminó con la destrucción de las siete ciudades entre el sur del río Biobío y el canal de Chacao. Los araucanos guardaron la cabeza de Martín García Óñez de Loyola y entregaron el cráneo años más tarde al gobernador Alonso García de Ramón."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#A0028",
+      "dialog_node": "node_2_1572384073040",
       "previous_sibling": "Bienvenido"
     },
     {
@@ -808,6 +1064,37 @@
     {
       "type": "standard",
       "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pedro de Viscarra, licenciado en leyes y juez español, fue gobernador de Chile interinamente en dos oportunidades. La primera vez en 1592, cuando Alonso de Sotomayor lo dejó a cargo de la colonia, para dirigirse al Perú a solicitar refuerzos. La segunda oportunidad, tras la Batalla de Curalaba, en la que murió a manos de los mapuche el gobernador titular Martín Óñez de Loyola, el 23 de diciembre de 1598. Viscarra había llegado a Chile en 1590, siendo ya viejo según los cronistas, tras ser designado teniente de gobernador y justicia mayor del llamado Reino de Chile por el virrey del Perú, Francisco Álvarez de Toledo."
+              },
+              {
+                "text": "Hijo de Diego de Viscarra e Isabel de la Barrera, había estudiado leyes en España. Se trasladó al Nuevo Mundo como parte de la oleada de abogados que llegan en segunda instancia, tras la Conquista de América, a resolver el vacío legal de las nuevas colonias y lucrar como intermediarios en el reparto del botín indígena."
+              },
+              {
+                "text": "El 6 de octubre de 1590 llegaba Viscarra a Santiago de Chile. Al día siguiente el gobernador Alonso de Sotomayor lo dejaba al mando de la ciudad, para partir a la habitual campaña veraniega en la frontera mapuche."
+              },
+              {
+                "text": "La noticia de la muerte del gobernador Martín Óñez de Loyola en el llamado desastre de Curalaba sorprendió a Viscarra en Santiago. De inmediato asumió como gobernador interino y dispuso de preparativos guerreros \"con una energía superior a cuanto debía esperarse de sus años\"."
+              },
+              {
+                "text": "Viscarra dispuso de la inmediata partida de una corta columna de refuerzo a las ciudades del sur, bajo el mando del capitán Alonso Cid Maldonado. Envió al capitán Luis Jufré con mensajes desesperados a Lima, pidiendo socorros. El 12 de enero de 1599, el propio Viscarra partía al sur al mando de alguna tropa. Diez día después llegó a Concepción, donde se dedicó a organizar la resistencia de los diversos fuerte. Partió por tapiar todas las bocacalles de la ciudad."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#A0027",
+      "dialog_node": "node_4_1572383651046",
+      "previous_sibling": "node_2_1572384073040"
+    },
+    {
+      "type": "standard",
+      "output": {
         "text": {
           "values": [
             "Lautaro fue un destacado líder militar Mapuche en la Guerra de Arauco durante la primera fase de la conquista española del territorio que llegaría a ser Chile.",
@@ -833,26 +1120,22 @@
       "output": {
         "text": {
           "values": [
-            "García Hurtado de Mendoza y Manrique, IV marqués de Cañete. Fue un militar español, que llegó a ser gobernador de Chile y VIII virrey del Perú. Fue gobernador de Chile, donde derrotó a Caupolicán y se encargó de organizar la administración española.",
-            "Fue hijo de Andrés Hurtado de Mendoza, II marqués de Cañete y virrey del Perú, y de María Manrique, hija del conde de Osorno. Pertenecía a una de las más importantes familias de la aristocracia castellana: la Casa de Mendoza. Sucedió en el marquesado a su hermano Diego Hurtado de Mendoza y Manrique, III marqués de cañete.",
-            "Al conocer que su padre sería designado virrey del Perú, volvió a España y le pidió que lo llevase a América. Durante el viaje se encontraba también Jerónimo de Alderete, que había sido designado por el rey como sucesor de Pedro de Valdivia en la gobernación de Chile, pero cuando arribaron a Nombre de Dios en Centroamérica y tuvieron que atravesar el istmo para poder embarcarse en la ciudad de Panamá, Alderete cayó gravemente enfermo de fiebre amarilla y murió el 7 de abril de 1556 en la isla de Taboga, antes de llegar a destino.",
-            "Con estos acontecimiento y con el poder que tenía su padre como virrey del Perú, convocó a gente proveniente de Chile y viendo que diferían si Villagra o Aguirre calificaban como el sucesor de Valdivia, decidió mantenerse neutral y nombró a su hijo como nuevo gobernador de Chile, sumado a que un nuevo gobernador que no tuviese afinidades con el ya fallecido Valdivia haría atraer más españoles hacia Chile, además de unificar a los bandos en disputa. La primera medida de su gobierno fue la de mandar a apresar a estos dos aspirantes al puesto por insurrección y los enviaría a Lima.",
-            "Gobernador de Chile\nDicho nombramiento agradó a García y se informó de los problemas que existían en Chile, sobre todo el asunto de la rebelión indígena y la disputa grave entre Francisco de Aguirre y Francisco de Villagra por el puesto de gobernador de Chile.\n\nContaba con 21 años de edad y era un joven de demostrada valentía, orgulloso de su linaje e inteligencia, y como contraparte, poseedor de un carácter muy altanero y orgulloso, de accesos violentos, muy cerrado y autoritario, lo que le granjearía ocultos enemigos en su propio círculo.",
-            "Para gobernar Chile contó con renovados caudales de las arcas del Perú y apertrechó ocho barcos, aquí resulta paradójico que el entusiasmo de venir a Chile tuviera una extraordinaria respuesta en contraste con tiempos pasados, pues se enrolaron 500 hispanos, una parte se vendría por tierra al mando de Luis de Toledo y Pedro de Castillo; y la otra parte por mar junto al nuevo gobernador. El primer grupo salió por tierra en enero de 1557 y el segundo por mar en febrero del mismo año.",
-            "Junto con García Hurtado de Mendoza venía un séquito de ilustres hombres, entre ellos Alonso de Ercilla y Zúñiga, Francisco de Irarrázaval y Andía, Francisco Pérez de Valenzuela, Hernando de Santillán, jurista y erudito, el fraile dominico Gil González de San Nicolás y el franciscano Juan Gallegos, hombre muy ilustrado.",
-            "Desembarcó en La Serena el 23 de abril de 1557. Y deslumbró a los pobres de Coquimbo al ver junto al nuevo gobernador el ejército más grande hasta entonces visto en estos lugares contando con más de 500 hombres, armados con arcabuces y cañones, vestidos con armaduras y penachos de plumas. Desde entonces se les llamó los \"emplumados\".",
-            "Francisco de Aguirre le recibió muy hospitalariamente en La Serena, pero conociendo el nuevo gobernador los problemas de litigio entre Aguirre y Francisco de Villagra por la gobernación de Chile, no dudó un segundo en tomarlos presos, repitiéndose la misma situación con Villagra que venía llegando a La Serena y los colocó en un barco. Este hecho fue considerado muy injusto por los castellanos avecindados en Chile ya que ambos tenían méritos más que suficientes para ser enaltecidos.",
-            "Lo más natural y dada la aproximación del invierno era que el gobernador viniese a Santiago, así que el cabildo hizo los preparativos de bienvenida, pero García Hurtado tenía otros planes, decidió seguir por mar a Concepción a pesar de los consejos en contra de quienes ya conocían las inclemencias del tiempo, que hacía el viaje peligroso por esas fechas. En Coquimbo envió la caballería por tierra y el zarpó el 21 de junio de 1557, en pleno invierno.",
-            "Llegó 8 días después a la bahía de Concepción en medio de un temporal que hacía correr peligro a las embarcaciones y en medio de una torrencial lluvia desembarcaron en la isla de la Quiriquina levantando un campamento provisional.\n\nUna vez asentado en Concepción, García Hurtado pretendió una política de aparente allegamiento y buena voluntad hacia los indígenas, quienes aceptaron los regalos del gobernador pero no estaban dispuestos a que sus territorios fueran ocupados por los advenedizos españoles.",
-            "Lincoyán y otros caciques supieron que la caballería venía por tierra desde Santiago y concibieron un plan que pretendía cortar dichas fuerzas atacándolas en Andalicán, cercano a Concepción.\n\nGarcía Hurtado que no era ningún ingenuo, supo del plan indígena y se dio cuenta que dicha conducta más que promover un acercamiento era considerado por los mapuches como signos de debilidad y temor por parte del nuevo gobernador, decidió cambiar entonces radicalmente de actitud con ellos.\n\nSe dirigió de inmediato a tierra mapuche, levantando el fuerte San Luis de Toledo con el objeto de abortar esta iniciativa, que fue prontamente atacado por los mapuches que, sin embargo, salieron derrotados, ya que el gobernador logró contrarrestar su número con la fuerza de los cañones y arcabuces.",
-            "Dirigió una nueva campaña en octubre de 1557, con un poderoso ejército de más de 500 hombre y miles de indios auxiliares. Ocurrió en esta campaña la Batalla de Lagunillas (7 de noviembre), en donde los españoles salieron vivos debido principalmente a la valentía demostrada por Rodrigo de Quiroga y los demás capitanes.\n\nLos mapuches se mostraron desorganizados en el ataque al ser conducidos por varios caciques a la vez y este desorden produjo fallos tácticos que impidieron su victoria.",
-            "Cuenta Alonso de Ercilla, que vino a Chile en el grupo que trajo el gobernador, que los españoles tomaron prisionero en esa batalla al cacique Galvarino, al que le cortaron la mano izquierda. Perdida esa mano sin ninguna mueca de dolor Galvarino coloco la otra, que también se la cortaron. Pidió la muerte, pero los conquistadores lo dejaron ir y se fue el mapuche con los suyos para planear su venganza.\n\nLos mapuches convocaron una reunión de caciques y eligieron a Caupolicán."
+            "Melchor Bravo de Saravia y Sotomayor fue un abogado y funcionario español, que llegó a ser presidente de la Real Audiencia de Lima y a la vez gobernador interino del Virreinato del Perú desde 1553 hasta 1556, y posteriormente, fue nombrado como gobernador de la Capitanía General de Chile desde 1568 hasta 1573 y presidente de la Real Audiencia de Concepción.",
+            "Como presidente-gobernador interino peruano reprimió el levantamiento del encomendero Francisco Hernández Girón contra el rey, y como presidente-gobernador chileno luchó sin éxito contra los mapuche, aunque realizara una obra meritoria como administrador.",
+            "Melchor Bravo de Saravia había nacido en el año 1512 en la ciudad de Soria, de la entonces Castilla la Vieja que formaba parte de la Corona castellana, siendo hijo de Juan Bravo de Saravia, señor de Pica y de Almenar, y de María Sotomayor de Vera Morales. Es antepasado directo de los actuales marqueses de la Pica.",
+            "Después de cursar Latinidad, se trasladó a Bolonia e ingresó en el Colegio Mayor de San Clemente (para estudiantes españoles) y se doctoró en Leyes.",
+            "Nombrado en 1547 oidor de la Real Audiencia de Santa Fe de Bogotá en el Nuevo Reino de Granada, no llegó a tomar posesión de dicha plaza porque inmediatamente recibió la orden de pasar al Perú para desempeñar el mismo cargo en la audiencia limeña, que se reinstaló en Lima en 1549 tras la debelación de la rebelión de Gonzalo Pizarro llevada a cabo por el pacificador Pedro de la Gasca, quien ejerció como presidente de dicha audiencia.",
+            "El 23 de diciembre de 1567 fue nombrado presidente de la nueva Real Audiencia de Concepción, que estaba subordinada a la de Lima, y al mismo tiempo ejercía como gobernador de la Capitanía General de Chile, que dependía del Virreinato del Perú pero conservaba cierta autonomía. Se embarcó en el Callao en abril de 1568 para asumir sus nuevas funciones.",
+            "Llegó a Chile y se trasladó a Santiago, pero en vez de dedicarse exclusivamente a los asuntos judiciales y civiles, como le correspondía a su cargo, decidió entrar de lleno en cuestiones militares, marginando a los oficiales experimentados, tal vez alentado por su anterior experiencia militar en el Perú. Se dirigió al sur para actuar en la Guerra de Arauco, consiguiendo solo una nueva derrota en el asalto al fuerte mapuche de Marigüeñu, al sur de Concepción (enero de 1569), por el que debieron ser evacuadas Arauco y Cañete.",
+            "Al revés militar se sumó el terrible terremoto que asoló Concepción el 8 de febrero de 1570, que causó la destrucción de todas las casas de esa ciudad, aunque solo hubo 30 muertos. Bravo tuvo que afrontar la reconstrucción de la ciudad y posteriormente volvió a activar la guerra con los indios, apoyado por refuerzos enviados desde Perú por el virrey Francisco de Toledo, pero fue derrotado nuevamente en Purén, a principios de 1571.",
+            "A partir de entonces adoptó una política defensiva, que puso en manos del general Lorenzo Bernal del Mercado. Él, por su parte, se dedicó enteramente a la administración civil, que fue oportuna y constructiva. En su período de gobierno se inició la construcción de la iglesia de San Francisco en Santiago, que sería finalizada en 1613 (es el único edificio del período de la conquista que se conserva en la actualidad).",
+            "El rey Felipe II, informado de los reveses militares con los mapuches, se convenció de la inconveniencia de que existiera una Audiencia en un territorio en permanente estado de guerra y decidió suprimirla, designando como gobernador de Chile a Rodrigo de Quiroga (1573)."
           ],
           "selection_policy": "random"
         }
       },
-      "conditions": "#A0022",
-      "dialog_node": "node_1_1570555489551"
+      "conditions": "#A0025",
+      "dialog_node": "node_3_1571157768908"
     }
   ],
   "workspace_id": "807ffb85-d4c2-42f5-96db-e5cba4068e28",
